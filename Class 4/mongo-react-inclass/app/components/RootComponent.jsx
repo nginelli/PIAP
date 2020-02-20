@@ -1,5 +1,7 @@
 const React = require("react");
 const ClockFace = require("./ClockFace");
+const TwitterList = require("./TwitterList")
+const TwitterForm = require("./TwitterForm")
 
 /* the main page for the index route of this app */
 const RootComponent = function() {
@@ -10,6 +12,9 @@ const RootComponent = function() {
       <p>Your app here</p>
 
       <ClockFace language="fr" />
+
+      <TwitterForm />
+      <TwitterList />
     </div>
   );
 }
