@@ -30,13 +30,32 @@ app.get("/", function(request, response) {
   response.sendFile(__dirname + '/app/index.html');
 });
 
-app.get("/counter", (req, res) => {
-  res.send(`This page has been visited ${count} times`)
+app.get("/counter", async (req, res) => {
+  // Get the collection
+  const collection = await dbclient.collection("siteinfo");
+
+  // Find the document you care about 
+  const item = await collection.findOne( {} );
+
+  //Get your data out of the item 
+  const pageviews = item ? item.pageviews + 1: 1; 
+
+  //Save back to the database 
+  await collection.updateOne({}, {
+    $set: {
+      pageviews = pageviews
+    }
+  }, {
+    upsert: true
+  });
+
+
+  res.send(`This page has been visited ${pageviews} times`);
 });
 
 // listen for requests :)
-mongo.connect("mongodb://localhost:27017", {
-  useNewURLParser: true, 
+mongo.connect("mongodb://localhost:27017/dumbnicole", {
+  useNewUrlParser: true, 
   useUnifiedTopology: true
 }).then((client) => {
   
