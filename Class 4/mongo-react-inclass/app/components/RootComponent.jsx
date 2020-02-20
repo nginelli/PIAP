@@ -1,7 +1,14 @@
 const React = require("react");
 const ClockFace = require("./ClockFace");
-const TwitterList = require("./TwitterList")
-const TwitterForm = require("./TwitterForm")
+const TwitterList = require("./TwitterList");
+const TwitterForm = require("./TwitterForm");
+
+const dummyData = [
+	{user: "Alex", message: "1"}
+	{user: "Alexa", message: "yo"}
+	{user: "Alex", message: "2"}
+];
+
 
 /* the main page for the index route of this app */
 const RootComponent = function() {
@@ -14,7 +21,8 @@ const RootComponent = function() {
       <ClockFace language="fr" />
 
       <TwitterForm />
-      <TwitterList />
+      <TwitterList tweets ={dummyData}/>
+
     </div>
   );
 }
