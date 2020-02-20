@@ -9,11 +9,11 @@ const mongo = require("mongodb").MongoClient;
 
 let dbclient;
 
-const dummyData = [
-  {user: "Alex", message: "1"}
-  {user: "Alexa", message: "yo"}
-  {user: "Alex", message: "2"}
-];
+// const dummyData = [
+//   {user: "Alex", message: "1"}
+//   {user: "Alexa", message: "yo"}
+//   {user: "Alex", message: "2"}
+// ];
 
 
 // Special piece for running with webpack dev server
@@ -39,11 +39,10 @@ app.get("/", function(request, response) {
 });
 
 
-
 app.get("/api/tweets", async (req, res) => {
   //json sends clear data that is specific to json 
   res.json(dummyData);
-  
+
 });
 
 app.get("/counter", async (req, res) => {
