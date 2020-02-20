@@ -4,6 +4,9 @@
 const express = require('express');
 const app = express();
 const port = process.env.PORT || 3000;
+const mongo = require("mongodb").MongoClient; 
+
+let dbclient;
 
 // Special piece for running with webpack dev server
 if (process.env.NODE_ENV === "development") {
@@ -32,6 +35,16 @@ app.get("/counter", (req, res) => {
 });
 
 // listen for requests :)
-const listener = app.listen(port, function () {
+mongo.connect("mongodb://localhost:27017", {
+  useNewURLParser: true, 
+  useUnifiedTopology: true
+}).then((client) => {
+  
+  dbclient = client.db();
+
+  const listener = app.listen(port, function () {
   console.log('Your app is listening on port ' + port);
-});
+  });
+
+})
+
