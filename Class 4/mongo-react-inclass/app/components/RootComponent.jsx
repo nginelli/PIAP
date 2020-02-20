@@ -3,16 +3,26 @@ const ClockFace = require("./ClockFace");
 const TwitterList = require("./TwitterList");
 const TwitterForm = require("./TwitterForm");
 
-const dummyData = [
-	{user: "Alex", message: "1"}
-	{user: "Alexa", message: "yo"}
-	{user: "Alex", message: "2"}
-];
-
+let dummyData = [];
 
 /* the main page for the index route of this app */
 const RootComponent = function() {
-  return (
+
+	const [tweets, setTweets] = react.useState([]);
+
+
+	//useEffect lets you run a function whenever the state changes
+	// [] listening for the state (or not) 
+	React.useEffect(async ()) => {
+	//fetch the data 
+		const response = await fetch("/api/tweets");
+		const data = await response.json();
+		setTweets(data);
+
+
+	}, []);
+
+ 	 return (
     <div>
       <h1>Hello!</h1>
 
@@ -21,7 +31,7 @@ const RootComponent = function() {
       <ClockFace language="fr" />
 
       <TwitterForm />
-      <TwitterList tweets ={dummyData}/>
+      <TwitterList tweets={tweets}/>
 
     </div>
   );
