@@ -4,7 +4,7 @@
 const express = require('express');
 const app = express();
 const port = process.env.PORT || 3000;
-const mongouri = process.env.MONGODB_URI || mongodb//localhost:27017/dumbnicole";
+const mongouri = process.env.MONGODB_URI || "mongodb://localhost:27017/dumbnicole";
 const mongo = require("mongodb").MongoClient; 
 
 let dbclient;
