@@ -43,7 +43,7 @@ app.get("/counter", async (req, res) => {
   //Save back to the database 
   await collection.updateOne({}, {
     $set: {
-      pageviews = pageviews
+      pageviews: pageviews
     }
   }, {
     upsert: true
