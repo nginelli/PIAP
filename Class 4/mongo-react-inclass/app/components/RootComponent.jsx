@@ -8,7 +8,7 @@ let dummyData = [];
 /* the main page for the index route of this app */
 const RootComponent = function() {
 
-	const [tweets, setTweets] = react.useState([]);
+	const [tweets, setTweets] = React.useState([]);
 
 
 	const doFetchTweets = async () => {
