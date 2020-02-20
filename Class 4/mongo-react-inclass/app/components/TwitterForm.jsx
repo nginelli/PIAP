@@ -1,6 +1,6 @@
 const React = require("react");
 
-function TwitterForm (){
+function TwitterForm (props){
 	return <p>This will be a form of tweets</p>
 }
 

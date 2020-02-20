@@ -11,15 +11,17 @@ const RootComponent = function() {
 	const [tweets, setTweets] = react.useState([]);
 
 
-	//useEffect lets you run a function whenever the state changes
-	// [] listening for the state (or not) 
-	React.useEffect(async ()) => {
-	//fetch the data 
+	const doFetchTweets = async () => {
+		//fetch the data 
 		const response = await fetch("/api/tweets");
 		const data = await response.json();
 		setTweets(data);
+	};
 
-
+	//useEffect lets you run a function whenever the state changes
+	// [] listening for the state (or not) 
+	React.useEffect(() => {
+		doFetchTweets();
 	}, []);
 
  	 return (
