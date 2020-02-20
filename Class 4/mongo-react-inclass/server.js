@@ -27,6 +27,10 @@ app.get("/", function(request, response) {
   response.sendFile(__dirname + '/app/index.html');
 });
 
+app.get("/counter", (req, res) => {
+  res.send(`This page has been visited ${count} times`)
+});
+
 // listen for requests :)
 const listener = app.listen(port, function () {
   console.log('Your app is listening on port ' + port);
