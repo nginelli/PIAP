@@ -1,32 +1,32 @@
 //1 require express
-const express = require.("express");
+const express = require("express");
 const fs = require("fs");
 const path = require("path");
 const promisify = require("util").promisify;
 
 const readFileAsync = promisify(fs.readFile);
-
+const writeFileAsync = promisify(fs.writeFile);
 // make the app 
 const app = express();
 
 // middleware like app.use
-app.get("/", (req, res) => {
+app.get("/", async (req, res) => {
 	// Read data in our file 
 	const filepath = path.join(__dirname, "data.json");
 
-	const contents = await fs.readFileAsync(filepath, "utf8");
+	const contents = await readFileAsync(filepath, "utf8");
 	
 	const data = JSON.parse(contents); 
 
 	// Update the count 
 	data.count++; 
 
-	// Write the file 
+	// Write the file to disk
 	const output = JSON.stringify(data);
-	fs.writeFileSync(filepath, output);
+	await writeFileAsync(filepath, output);
 
 	// Send the result 
-	res.send('You have visited this page ${data.count} times');
+	res.send(`You have visited this page ${data.count} times`);
 });
 
 //4 listen 

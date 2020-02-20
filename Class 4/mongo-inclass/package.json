@@ -1,21 +1,15 @@
 {
-  "name": "nicole",
+  "name": "mongo-inclass",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "dependencies": {
-    "express": "^4.17.1",
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2"
-  },
-  "engines": {
-      "node": "12.x"
-  }
-  "devDependencies": {},
+  "main": "server.js",
   "scripts": {
-      "start": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
