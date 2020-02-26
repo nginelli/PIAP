@@ -5,6 +5,11 @@ const express = require('express');
 const app = express();
 const port = process.env.PORT || 3000;
 
+// const { promisify } = require("util");
+// const fs = require("fs");
+// const path = require("path");
+// const access = promisify(fs.access);
+
 // const mongouri = process.env.MONGODB_URI || "mongodb://localhost:27017/dumbnicole";
 // const mongo = require("mongodb").MongoClient; 
 

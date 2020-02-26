@@ -1,12 +1,11 @@
 const React = require("react");
-const ClockFace = require("./ClockFace");
 const TwitterList = require("./TwitterList");
 const TwitterForm = require("./TwitterForm");
 
 let dummyData = [];
 
 /* the main page for the index route of this app */
-const RootComponent = function() {
+const DumbColor = function() {
 
 	const [tweets, setTweets] = React.useState([]);
 
