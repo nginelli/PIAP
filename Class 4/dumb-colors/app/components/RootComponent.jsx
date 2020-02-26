@@ -5,7 +5,7 @@ const TwitterForm = require("./TwitterForm");
 let dummyData = [];
 
 /* the main page for the index route of this app */
-const DumbColor = function() {
+const RootComponent = function() {
 
 	const [tweets, setTweets] = React.useState([]);
 
