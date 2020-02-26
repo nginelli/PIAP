@@ -1,15 +1,19 @@
 const React = require("react");
+const ClockFace = require("./ClockFace");
 const TwitterList = require("./TwitterList");
 const TwitterForm = require("./TwitterForm");
 
 let dummyData = [];
 
 /* the main page for the index route of this app */
-const RootComponent = function() {
+const RootComponent = function(props) {
 
+
+	
+	// Initialize an array of tweets with an empty array
 	const [tweets, setTweets] = React.useState([]);
 
-
+	// When this component loads, fetch tweets from the API
 	const doFetchTweets = async () => {
 		//fetch the data 
 		const response = await fetch("/api/tweets");
@@ -25,11 +29,7 @@ const RootComponent = function() {
 
  	 return (
     <div>
-      <h1>Hello!</h1>
-
-      <p>Your app here</p>
-
-      <ClockFace language="fr" />
+      <h1>Dumb Colors!</h1>
 
       <TwitterForm />
       <TwitterList tweets={tweets}/>

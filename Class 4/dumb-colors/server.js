@@ -5,6 +5,10 @@ const express = require('express');
 const app = express();
 const port = process.env.PORT || 3000;
 
+// Need to add body-parser middleware
+const bodyParser = require('body-parser');
+app.use(bodyParser.json());
+
 // const { promisify } = require("util");
 // const fs = require("fs");
 // const path = require("path");
@@ -74,6 +78,23 @@ app.get("/counter", async (req, res) => {
 
   res.send(`This page has been visited ${pageviews} times`);
 });
+
+
+
+// Post a new tweet
+app.post("/api/tweet", (req, res) => {
+  const body = req.body;
+  const user = body.user;
+  const message = body.message;
+  if (!user || !message) {
+    res.status(400).send("Missing user or message");
+  } else {
+    dummyData.push({user, message});
+    res.sendStatus(200);
+  }
+});
+
+
 
 
 // listen for requests :)
