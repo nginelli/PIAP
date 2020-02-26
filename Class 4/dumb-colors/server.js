@@ -48,7 +48,8 @@ app.get("/api/tweets", async (req, res) => {
 
 app.get("/counter", async (req, res) => {
   // Get the collection
-  const collection = await dbclient.collection("siteinfo");
+  // const collection = await dbclient.collection("siteinfo");
+  const collection = await collection("siteinfo");
 
   // Find the document you care about 
   const item = await collection.findOne( {} );
