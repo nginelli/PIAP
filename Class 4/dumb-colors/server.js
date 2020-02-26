@@ -4,10 +4,11 @@
 const express = require('express');
 const app = express();
 const port = process.env.PORT || 3000;
-const mongouri = process.env.MONGODB_URI || "mongodb://localhost:27017/dumbnicole";
-const mongo = require("mongodb").MongoClient; 
 
-let dbclient;
+// const mongouri = process.env.MONGODB_URI || "mongodb://localhost:27017/dumbnicole";
+// const mongo = require("mongodb").MongoClient; 
+
+// let dbclient;
 
 const dummyData = [
   {user: "Alex", message: "1"},
@@ -68,17 +69,24 @@ app.get("/counter", async (req, res) => {
   res.send(`This page has been visited ${pageviews} times`);
 });
 
+
 // listen for requests :)
-mongo.connect(mongouri, {
-  useNewUrlParser: true, 
-  useUnifiedTopology: true
-}).then((client) => {
-  
-  dbclient = client.db();
-
-  const listener = app.listen(port, function () {
+const listener = app.listen(port, function () {
   console.log('Your app is listening on port ' + port);
-  });
+});
 
-})
+// 
+// listen for requests :)
+// mongo.connect(mongouri, {
+//   useNewUrlParser: true, 
+//   useUnifiedTopology: true
+// }).then((client) => {
+  
+//   dbclient = client.db();
+
+//   const listener = app.listen(port, function () {
+//   console.log('Your app is listening on port ' + port);
+//   });
+
+// })
 
