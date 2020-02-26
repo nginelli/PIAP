@@ -1,29 +1,18 @@
 // server.js
-const express = require("express");
-
-const app = express();
-
-app.get("/", (req, res) => {
-    res.send("You did it, you made a web page");
-});
-
-app.listen(3000, () => {
-    console.log("Server listening on port 3000");
-});
 
 // init project
-// const express = require('express');
-// const app = express();
-// const port = process.env.PORT || 3000;
-// const mongouri = process.env.MONGODB_URI || "mongodb://localhost:27017/dumbnicole";
-// const mongo = require("mongodb").MongoClient; 
+const express = require('express');
+const app = express();
+const port = process.env.PORT || 3000;
+const mongouri = process.env.MONGODB_URI || "mongodb://localhost:27017/dumbnicole";
+const mongo = require("mongodb").MongoClient; 
 
 let dbclient;
 
 const dummyData = [
-  // {user: "Alex", message: "1"}
-  // {user: "Alexa", message: "yo"}
-  // {user: "Alex", message: "2"}
+  {user: "Alex", message: "1"},
+  {user: "Alexa", message: "yo"},
+  {user: "Alex", message: "2"}
 ];
 
 
