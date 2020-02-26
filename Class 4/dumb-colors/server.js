@@ -21,9 +21,9 @@ app.listen(3000, () => {
 let dbclient;
 
 const dummyData = [
-  {user: "Alex", message: "1"}
-  {user: "Alexa", message: "yo"}
-  {user: "Alex", message: "2"}
+  // {user: "Alex", message: "1"}
+  // {user: "Alexa", message: "yo"}
+  // {user: "Alex", message: "2"}
 ];
 
 
