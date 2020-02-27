@@ -1,5 +1,5 @@
 const express = require("express");
-const { randomName, randomPlace, randomColor } = require("./chance");
+const { randomColor } = require("./chance");
 const port = process.env.PORT || 3000;
 const fs = require("fs");
 
@@ -7,9 +7,8 @@ const fs = require("fs");
 const app = express();
 
 // Serve the public directory as static
-app.use(express.static("public"));
 app.use(express.static("static"));
-app.use(express.urlencoded({ extended: true }));
+
 
 const locations = [
     {
