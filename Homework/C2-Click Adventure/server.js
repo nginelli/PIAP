@@ -1,5 +1,5 @@
 const express = require("express");
-const { randomName, randomPlace } = require("./chance");
+const { randomName, randomPlace, randomColor } = require("./chance");
 const port = process.env.PORT || 3000;
 const fs = require("fs");
 
@@ -22,8 +22,9 @@ const locations = [
 let inventory = [];
 let lastLocation = undefined;
 
-function makeContent(title, text, options) {
+function makeContent(color, title, text, options) {
     let htmldoc = fs.readFileSync("./templates/index.html", "utf8");
+    htmldoc = htmldoc.replace("%%%COLOR%%%", color);
     htmldoc = htmldoc.replace("%%%TITLE%%%", title);
     htmldoc = htmldoc.replace("%%%TEXT%%%", text);
     htmldoc = htmldoc.replace("%%%OPTIONS%%%", options.map(option => `<li>${option}</li>`).join(""));
@@ -46,6 +47,7 @@ app.get("/yellow", (_, res) => {
     res.send(
         makeContent(
             "yellow",
+            "yellow",
             "You're standing in the sun. You can swim in the sea or start a fire.",
             options
         )
@@ -59,6 +61,7 @@ app.get("/blue", (_, res) => {
     options.push("<a href=/inventory>Your Colors</a>");
     res.send(
         makeContent(
+            "blue",
             "blue",
             "You're in the sea.",
             options
@@ -78,6 +81,7 @@ app.get("/red", (_, res) => {
     res.send(
         makeContent(
             "red",
+            "red",
             text,
             options
         )
@@ -94,6 +98,7 @@ app.get("/inventory", (_, res) => {
     res.send(
         makeContent(
             "brown",
+            "colors",
             text,
             [
                 `<a href=/${returnAddress}>Go back</a>`,
@@ -105,12 +110,6 @@ app.get("/inventory", (_, res) => {
 
 app.get("/wildcard", (_, res) => {
     const newColor = randomColor();
-    let htmldoc = fs.readFileSync("./templates/wildcard.html", "utf8");
-    htmldoc = htmldoc.replace("%%%TITLE%%%", newColor);
-    res.send(
-        htmldoc
-    );
-
     let text = "You got the random color!";
     if (inventory.length === 0) {
         inventory.push("wildcard");
@@ -121,6 +120,7 @@ app.get("/wildcard", (_, res) => {
     if (!!lastLocation) returnAddress = lastLocation;
     res.send(
         makeContent(
+            "newColor",
             "wildcard",
             text,
             [
@@ -145,6 +145,7 @@ app.get("/green", (_, res) => {
     }
     res.send(
         makeContent(
+            green,
             inventory.length > 0 ? "Victory!" : "Nice try",
             text,
             options
