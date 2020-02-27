@@ -8,6 +8,8 @@ const app = express();
 
 // Serve the public directory as static
 app.use(express.static("public"));
+app.use(express.static("static"));
+app.use(express.urlencoded({ extended: true }));
 
 let counter = 0;
 // let name = null;
@@ -56,6 +58,10 @@ app.get("/inventory", (req, res) => {
     res.send(
         htmldoc
     );
+});
+
+app.post("/set-name", (req, res) => {
+    const suggestion = req.body.username;
 });
 
 app.listen(port, () => {
