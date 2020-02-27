@@ -5,6 +5,6 @@ const c = new chance(); // Create an actual chance instace. See the docs.
 // console.log(`You live on ${c.street()} in ${c.state()}`);
 
 module.exports = {
-    randomName: () => `c.name()`,
+    randomName: () => `${c.name()}`,
     randomPlace: () => `${c.street()}, ${c.state()}`
 }

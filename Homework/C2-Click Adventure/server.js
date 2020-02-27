@@ -28,7 +28,7 @@ app.get("/door", (req, res) => {
     const newName = randomName();
     const newAddress = randomPlace();
     let htmldoc = fs.readFileSync("./templates/door.html", "utf8");
-    htmldoc = htmldoc.replace("%%%VIEWS%%%", newName);
+    htmldoc = htmldoc.replace("%%%NAME%%%", newName);
     htmldoc = htmldoc.replace("%%%PLACE%%%", newAddress);
     res.send(
         htmldoc
