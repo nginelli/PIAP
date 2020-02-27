@@ -1,7 +1,5 @@
 const express = require("express");
 const { randomColor } = require("./chance");
-const newColor = randomColor();
-
 const port = process.env.PORT || 3000;
 const fs = require("fs");
 
@@ -108,8 +106,20 @@ app.get("/inventory", (_, res) => {
     )
 });
 
+app.get("/door", (req, res) => {
+    const newName = randomName();
+    const newAddress = randomPlace();
+    let htmldoc = fs.readFileSync("./templates/door.html", "utf8");
+    htmldoc = htmldoc.replace("%%%NAME%%%", newName);
+    htmldoc = htmldoc.replace("%%%PLACE%%%", newAddress);
+    res.send(
+        htmldoc
+    );
+});
+
 
 app.get("/wildcard", (_, res) => {
+    const newColor = randomColor();
     let text = "You got the random color!";
     if (inventory.length === 0) {
         inventory.push("wildcard");
@@ -120,7 +130,7 @@ app.get("/wildcard", (_, res) => {
     if (!!lastLocation) returnAddress = lastLocation;
     res.send(
         makeContent(
-            "newColor",
+            newColor,
             "wildcard",
             text,
             [
