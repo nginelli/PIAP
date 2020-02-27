@@ -13,8 +13,8 @@ app.use(express.urlencoded({ extended: true }));
 
 const locations = [
     {
-        name: "hallway",
-        template: "hallway.html"
+        name: "yellow",
+        template: "yellow.html"
     }
 ];
 
@@ -32,43 +32,43 @@ function makeContent(title, text, options) {
 
 app.get("/", (_, res) => {
     inventory = [];
-    lastLocation = "hallway";
-    res.redirect("/hallway");
+    lastLocation = "yellow";
+    res.redirect("/yellow");
 });
 
-app.get("/hallway", (_, res) => {
-    lastLocation = "hallway";
+app.get("/yellow", (_, res) => {
+    lastLocation = "yellow";
     options = [
-        "<a href=/big>Go left to the big room</a>",
-        "<a href=/small>Go right to the small room</a>"
+        "<a href=/blue>Go to sea</a>",
+        "<a href=/red>Go to fire</a>"
     ];
-    options.push("<a href=/inventory>Check your inventory</a>");
+    options.push("<a href=/inventory>Your inventory</a>");
     res.send(
         makeContent(
-            "Hallway",
-            "You're standing in the hallway. To your left is a big room. To your right is a small room.",
+            "yellow",
+            "You're standing in the sun. You can swim in the sea or start a fire.",
             options
         )
     );
 });
 
-app.get("/big", (_, res) => {
-    lastLocation = "big";
-    let options = ["<a href=/hallway>Go back to the hallway</a>"];
-    options.push("<a href=/unlock>Open the door</a>");
-    options.push("<a href=/inventory>Check your inventory</a>");
+app.get("/blue", (_, res) => {
+    lastLocation = "blue";
+    let options = ["<a href=/yellow>Go back to the sun</a>"];
+    options.push("<a href=/wildcard>Wildcard</a>");
+    options.push("<a href=/inventory>Your inventory</a>");
     res.send(
         makeContent(
-            "Big room",
-            "You're standing in a big room. It's so big! Echo! There's a heavy looking door in here.",
+            "blue",
+            "You're in the sea.",
             options
         )
     );
 });
 
-app.get("/small", (_, res) => {
+app.get("/red", (_, res) => {
     lastLocation = "small";
-    let options = ["<a href=/hallway>Go back to the hallway</a>"];
+    let options = ["<a href=/yellow>Go back to the yellow</a>"];
     let text = "You're standing in a small room. Actually, it's so small you're not standing, you're crouching.";
     if (inventory.length === 0) {
         text += " There's a shiny key on the floor.";
@@ -89,7 +89,7 @@ app.get("/inventory", (_, res) => {
     if (inventory.length > 0) {
         text = "You have a key in your inventory";
     }
-    let returnAddress = "hallway";
+    let returnAddress = "yellow";
     if (!!lastLocation) returnAddress = lastLocation;
     res.send(
         makeContent(
@@ -102,38 +102,46 @@ app.get("/inventory", (_, res) => {
     )
 });
 
-app.get("/key", (_, res) => {
-    let text = "You picked up the key!";
+
+app.get("/wildcard", (_, res) => {
+    const newColor = randomColor();
+    let htmldoc = fs.readFileSync("./templates/door.html", "utf8");
+    htmldoc = htmldoc.replace("%%%TITLE%%%", newColor);
+    res.send(
+        htmldoc
+    );
+
+    let text = "You got the random color!";
     if (inventory.length === 0) {
-        inventory.push("key");
+        inventory.push("wildcard");
     } else {
-        text = "You already have the key";
+        text = "You already have the random color";
     }
-    let returnAddress = "hallway";
+    let returnAddress = "yellow";
     if (!!lastLocation) returnAddress = lastLocation;
     res.send(
         makeContent(
-            "Got item",
+            "wildcard",
             text,
             [
-                `<a href=/${returnAddress}>Back whence you came</a>`,
+                `<a href=/${returnAddress}>Go back</a>`,
             ]
         )
     )
 });
 
-app.get("/unlock", (_, res) => {
+app.get("/green", (_, res) => {
     let text;
-    let returnAddress = "hallway";
+    let returnAddress = "yellow";
     let options;
     if (!!lastLocation) returnAddress = lastLocation;
     
     if (inventory.length > 0) {
-        text = "You did it! The heavy door latches open with a loud clunk, and swings open dramatically. You've escaped the labyrinth.";
+        text = "You did it!";
         options = [`<a href=/>Start over</a>`];
     } else {
-        text = "You can't unlock the door without a key";
-        options = [`<a href=/${returnAddress}>Back whence you came</a>`];
+        text = "You need to collect the color";
+        options = [`<a href=/${returnAddress}>Go back</a>`];
     }
     res.send(
         makeContent(
