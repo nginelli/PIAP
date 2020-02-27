@@ -1,5 +1,7 @@
 const express = require("express");
 const { randomColor } = require("./chance");
+const newColor = randomColor();
+
 const port = process.env.PORT || 3000;
 const fs = require("fs");
 
@@ -73,8 +75,8 @@ app.get("/red", (_, res) => {
     let options = ["<a href=/yellow>Go back to yellow</a>"];
     let text = "You're standing in fire.";
     if (inventory.length === 0) {
-        text += "Theres an option to multiply colors";
-        options.push("<a href=/multiply>Pick up the multi</a>");
+        text += "Theres an option to get wild colors";
+        options.push("<a href=/wildcard>Pick up the random</a>");
     }
     options.push("<a href=/inventory>Your colors</a>");
     res.send(
@@ -90,7 +92,7 @@ app.get("/red", (_, res) => {
 app.get("/inventory", (_, res) => {
     let text = "You dont have any colors yet!";
     if (inventory.length > 0) {
-        text = "You have multiply powers";
+        text = "You have color powers";
     }
     let returnAddress = "yellow";
     if (!!lastLocation) returnAddress = lastLocation;
@@ -108,7 +110,6 @@ app.get("/inventory", (_, res) => {
 
 
 app.get("/wildcard", (_, res) => {
-    const newColor = randomColor();
     let text = "You got the random color!";
     if (inventory.length === 0) {
         inventory.push("wildcard");
