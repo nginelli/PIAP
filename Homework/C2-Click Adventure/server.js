@@ -39,10 +39,10 @@ app.get("/", (_, res) => {
 app.get("/yellow", (_, res) => {
     lastLocation = "yellow";
     options = [
-        "<a href=/blue>Go to sea</a>",
-        "<a href=/red>Go to fire</a>"
+        "<a href=/blue>Go to blue</a>",
+        "<a href=/red>Go to red</a>"
     ];
-    options.push("<a href=/inventory>Your inventory</a>");
+    options.push("<a href=/inventory>Your colors</a>");
     res.send(
         makeContent(
             "yellow",
@@ -54,9 +54,9 @@ app.get("/yellow", (_, res) => {
 
 app.get("/blue", (_, res) => {
     lastLocation = "blue";
-    let options = ["<a href=/yellow>Go back to the sun</a>"];
+    let options = ["<a href=/yellow>Go back to yellow</a>"];
     options.push("<a href=/wildcard>Wildcard</a>");
-    options.push("<a href=/inventory>Your inventory</a>");
+    options.push("<a href=/inventory>Your Colors</a>");
     res.send(
         makeContent(
             "blue",
@@ -67,17 +67,17 @@ app.get("/blue", (_, res) => {
 });
 
 app.get("/red", (_, res) => {
-    lastLocation = "small";
-    let options = ["<a href=/yellow>Go back to the yellow</a>"];
-    let text = "You're standing in a small room. Actually, it's so small you're not standing, you're crouching.";
+    lastLocation = "red";
+    let options = ["<a href=/yellow>Go back to yellow</a>"];
+    let text = "You're standing in fire.";
     if (inventory.length === 0) {
-        text += " There's a shiny key on the floor.";
-        options.push("<a href=/key>Pick up the key</a>");
+        text += "Theres an option to multiply colors";
+        options.push("<a href=/multiply>Pick up the multi</a>");
     }
-    options.push("<a href=/inventory>Check your inventory</a>");
+    options.push("<a href=/inventory>Your colors</a>");
     res.send(
         makeContent(
-            "Small room",
+            "red",
             text,
             options
         )
@@ -85,18 +85,18 @@ app.get("/red", (_, res) => {
 });
 
 app.get("/inventory", (_, res) => {
-    let text = "There is nothing in your inventory!";
+    let text = "You dont have any colors yet!";
     if (inventory.length > 0) {
-        text = "You have a key in your inventory";
+        text = "You have multiply powers";
     }
     let returnAddress = "yellow";
     if (!!lastLocation) returnAddress = lastLocation;
     res.send(
         makeContent(
-            "Inventory",
+            "brown",
             text,
             [
-                `<a href=/${returnAddress}>Back whence you came</a>`,
+                `<a href=/${returnAddress}>Go back</a>`,
             ]
         )
     )
@@ -105,7 +105,7 @@ app.get("/inventory", (_, res) => {
 
 app.get("/wildcard", (_, res) => {
     const newColor = randomColor();
-    let htmldoc = fs.readFileSync("./templates/door.html", "utf8");
+    let htmldoc = fs.readFileSync("./templates/wildcard.html", "utf8");
     htmldoc = htmldoc.replace("%%%TITLE%%%", newColor);
     res.send(
         htmldoc
