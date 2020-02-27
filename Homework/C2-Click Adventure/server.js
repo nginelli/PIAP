@@ -36,9 +36,9 @@ app.get("/door", (req, res) => {
 });
 
 app.get("/window", (req, res) => {
-    const newName = randomName();
+    const currentName = newName;
     let htmldoc = fs.readFileSync("./templates/window.html", "utf8");
-    htmldoc = htmldoc.replace("%%%VIEWS%%%", newName);
+    htmldoc = htmldoc.replace("%%%CURRENT_NAME%%%", currentName);
     res.send(
         htmldoc
     );
