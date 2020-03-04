@@ -1,5 +1,7 @@
 const React = require("react");
 const ClockFace = require("./ClockFace");
+const utils = require("../logic/utils.js");
+
 
 /* the main page for the index route of this app */
 const RootComponent = function() {
