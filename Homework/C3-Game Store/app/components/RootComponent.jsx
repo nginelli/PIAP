@@ -6,6 +6,7 @@ const RootComponent = function() {
   return (
     <div>
       <h1>Hello!</h1>
+      return <h1>A random number is {utils.randomNumber()}</h1>
 
       <p>Your app here</p>
 
