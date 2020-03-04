@@ -1,5 +1,5 @@
 const React = require("react");
-const ClockFace = require("./ClockFace");
+// const ClockFace = require("./ClockFace");
 const utils = require("../logic/utils.js");
 
 
@@ -8,11 +8,11 @@ const RootComponent = function() {
   return (
     <div>
       <h1>Hello!</h1>
-      <h1>A random number is {utils.randomNumber()}</h1>
+      <h2>A random number is {utils.randomNumber()}</h2>
 
       <p>Your app here</p>
 
-      <ClockFace language="fr" />
+      {/* <ClockFace language="fr" /> */}
     </div>
   );
 }
