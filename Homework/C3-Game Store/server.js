@@ -1,9 +1,17 @@
 // server.js
 
 // init project
+const port = process.env.PORT || 3000;
 const express = require('express');
 const app = express();
-const port = process.env.PORT || 3000;
+
+// app.get("/", (req, res) => {
+//   res.send("You did it, you made a web page");
+// });
+
+// app.listen(port, () => {
+//   console.log(`Server listening on port ${port}`);
+// });
 
 // Special piece for running with webpack dev server
 if (process.env.NODE_ENV === "development") {
@@ -27,7 +35,7 @@ app.get("/", function(request, response) {
   response.sendFile(__dirname + '/app/index.html');
 });
 
-// listen for requests :)
+// // listen for requests :)
 const listener = app.listen(port, function () {
   console.log('Your app is listening on port ' + port);
 });
