@@ -13,10 +13,10 @@
 <img width="100" height="100" src="https://www.jameco.com/Jameco/Products/ProdImag/2237221.jpg">
 
 ### Neopixel Ring/ 12 RGB LED <br/>
-<img width="100" height="100" src="https://www.distrelec.nl/Web/WebShopImages/landscape_large/0-/01/Adafruit-1643-30091150-01.jpg">
+<img width="150" height="100" src="https://www.distrelec.nl/Web/WebShopImages/landscape_large/0-/01/Adafruit-1643-30091150-01.jpg">
 
 ### DHT22 Digital Temperature and Humidity Sensor <br/>
 <img width="100" height="100" src="https://img2.bgxcdn.com/thumb/view/upload/G13charger/SKU031549%20.jpg">
 
 ### Jumper Wires <br/>
-<img width="100" height="100" src="https://itp.nyu.edu/physcomp/wp-content/uploads/pcomp-kit-f2019-jumper-wires.jpg">
+<img width="100" height="100" src="https://cdn.solarbotics.com/wp-content//uploads/45040-img_6236wht-5.jpg">
