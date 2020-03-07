@@ -13,7 +13,7 @@
 <img width="100" height="100" src="https://www.jameco.com/Jameco/Products/ProdImag/2237221.jpg">
 
 ### Neopixel Ring/ 12 RGB LED <br/>
-<img width="150" height="100" src="https://www.distrelec.nl/Web/WebShopImages/landscape_large/0-/01/Adafruit-1643-30091150-01.jpg">
+<img width="100" height="100" src="https://boutique.semageek.com/741-large_default/neopixel-ring-with-12-led-rgb-led-and-driver-integrated.jpg">
 
 ### DHT22 Digital Temperature and Humidity Sensor <br/>
 <img width="100" height="100" src="https://img2.bgxcdn.com/thumb/view/upload/G13charger/SKU031549%20.jpg">
