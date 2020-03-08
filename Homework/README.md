@@ -1,5 +1,5 @@
 # PIAP
-Homework Assignments live here 
+Homework Assignments
 
 [Class 1](https://github.com/nginelli/PIAP/tree/master/Homework/C1-Writing)<br />
 [Class 2](https://github.com/nginelli/PIAP/tree/master/Homework/C2-Click%20Adventure)<br />
