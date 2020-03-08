@@ -1,5 +1,7 @@
-Starter React App on Glitch
-===========================
+In progress
+
+
+## Starter React App on Glitch
 
 This app is a very small scaffold to get you started using React and Webpack.
 
