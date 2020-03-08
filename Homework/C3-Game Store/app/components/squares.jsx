@@ -1,5 +1,5 @@
 const React = require("react");
-const style = require('../public/style.css');
+const style = require('../css/appstyle.css');
 
 function Block(props) {
 

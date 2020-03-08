@@ -1,7 +1,7 @@
 const React = require("react");
 const squares = require("./squares.jsx");
 const board = require("./board.jsx");
-const style = require('../public/style.css');
+const style = require('../css/appstyle.css');
 
 // const ClockFace = require("./ClockFace");
 // const utils = require("../logic/utils.js");

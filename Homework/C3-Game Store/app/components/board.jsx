@@ -1,6 +1,6 @@
 const React = require("react");
 const squares = require("./squares.jsx");
-const style = require('../public/style.css');
+const style = require('../css/appstyle.css');
 
 function Board(props) {
 
