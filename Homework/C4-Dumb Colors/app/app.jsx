@@ -1,27 +1,7 @@
 const React = require("react");
-// const ReactDOM = require("react-dom");
-const Component = React.Component;
-require('./App.css');
+const ReactDOM = require("react-dom");
 
 /* Import Components */
-var {Color} = require('./Components/Shapes');
-var {Animal} = require('./Components/Shapes');
+const RootComponent = require("./components/RootComponent");
 
-// ReactDOM.render(<Shapes/>, document.getElementById("main"));
-
-
-
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <div className="colors">
-          <Color name="red"/>
-          <Color name="green"/>
-          <Color name="blue"/>
-        </div>
-      </div>
-    );
-  }
-}
-module.exports = App;
+ReactDOM.render(<RootComponent/>, document.getElementById("main"));

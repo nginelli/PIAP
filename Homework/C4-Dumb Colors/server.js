@@ -5,6 +5,26 @@ const express = require('express');
 const app = express();
 const port = process.env.PORT || 3000;
 
+// Need to add body-parser middleware
+const bodyParser = require('body-parser');
+app.use(bodyParser.json());
+
+// const { promisify } = require("util");
+// const fs = require("fs");
+// const path = require("path");
+// const access = promisify(fs.access);
+
+// const mongouri = process.env.MONGODB_URI || "mongodb://localhost:27017/dumbnicole";
+// const mongo = require("mongodb").MongoClient; 
+
+// let dbclient;
+
+const dummyData = [
+  {user: "Alex", message: "1"},
+  {user: "Alexa", message: "yo"},
+  {user: "Alex", message: "2"}
+];
+
 
 // Special piece for running with webpack dev server
 if (process.env.NODE_ENV === "development") {
@@ -82,4 +102,18 @@ const listener = app.listen(port, function () {
   console.log('Your app is listening on port ' + port);
 });
 
+// 
+// listen for requests :)
+// mongo.connect(mongouri, {
+//   useNewUrlParser: true, 
+//   useUnifiedTopology: true
+// }).then((client) => {
+  
+//   dbclient = client.db();
+
+//   const listener = app.listen(port, function () {
+//   console.log('Your app is listening on port ' + port);
+//   });
+
+// })
 

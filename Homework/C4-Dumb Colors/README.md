@@ -1,6 +1,7 @@
-Still working on this one!
+Starter React App on Glitch
+===========================
 
----
+This app is a very small scaffold to get you started using React and Webpack.
 
 It's been copied by @starakaj for your enjoyment. You can find the original at https://glitch.com/~starter-react.
 
