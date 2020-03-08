@@ -11,13 +11,14 @@ const style = require('../css/appstyle.css');
 const RootComponent = function() {
   return (
     <div>
-      <Board />
+      <board />
     </div>
   );
 }
 
 module.exports = RootComponent;
 
+//yo
 
 
 // const RootComponent = function() {
