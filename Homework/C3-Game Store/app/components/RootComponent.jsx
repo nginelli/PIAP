@@ -1,7 +1,6 @@
 const React = require("react");
-const squares = require("./squares.jsx");
-const board = require("./board.jsx");
-const style = require('../css/appstyle.css');
+const Block = require("./squares.jsx");
+const Board = require("./board.jsx");
 
 // const ClockFace = require("./ClockFace");
 // const utils = require("../logic/utils.js");
@@ -11,27 +10,9 @@ const style = require('../css/appstyle.css');
 const RootComponent = function() {
   return (
     <div>
-      <board />
+      <Board />
     </div>
   );
 }
 
 module.exports = RootComponent;
-
-//yo
-
-
-// const RootComponent = function() {
-//   return (
-//     <div>
-//       <h1>Hello!</h1>
-//       <h2>A random number is {utils.randomNumber()}</h2>
-
-//       <p>Your app here</p>
-
-//       <ClockFace language="fr" />
-//     </div>
-//   );
-// }
-
-// module.exports = RootComponent;

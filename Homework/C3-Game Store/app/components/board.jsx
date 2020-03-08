@@ -1,6 +1,5 @@
 const React = require("react");
-const squares = require("./squares.jsx");
-const style = require('../css/appstyle.css');
+const Block = require("./squares.jsx");
 
 function Board(props) {
 
@@ -14,16 +13,16 @@ function Board(props) {
   function trackClick(i) {
     const squaresBoth = squares.slice();
 
-    if (squaresBoth[i] || checkWin(squaresBoth)) {
+    if (squaresBoth[i] || whoWon(squaresBoth)) {
       return;
     }
     if (player) {
-      squaresBoth[i] = '/';
+      squaresBoth[i] = 'I';
     } else {
       squaresBoth[i] = 'U';
     }
     setSquares(squaresBoth);
-    setPlayer(!Player);
+    setPlayer(!player);
   }
 
 
@@ -48,6 +47,7 @@ function Board(props) {
     return (<Block value={squares[i]} onClick={() => trackClick(i)}/>);
   }
  
+  var status = "'s turn to move";
   const winner = whoWon(squares);
 
   return (
@@ -65,7 +65,7 @@ function Board(props) {
       </div>
 
     <div className="message">
-          {(winner) ? ('Winner is ' + winner) : ((player ? '/' : 'U') + status)}
+          {(winner) ? ('Winner is ' + winner + '!') : ((player ? 'I' : 'U') + status)}
     </div>
     </div>
   );

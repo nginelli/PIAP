@@ -11,7 +11,7 @@ module.exports = {
     publicPath: '/',
   },
   resolve: {
-    extensions: ['.js', '.jsx'],
+    extensions: ['.js', '.jsx', '.css'],
   },
   module: {
     rules: [
@@ -20,6 +20,13 @@ module.exports = {
         loader: 'jsx-loader',
         exclude: /node_modules/,
         include: path.join(__dirname, 'app'),
+      },
+      {
+        test: /\.css$/,
+        use: [
+          { loader: "style-loader" },
+          { loader: "css-loader" }
+        ]
       },
     ],
   },
