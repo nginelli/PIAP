@@ -1,15 +1,13 @@
 const React = require("react");
-const ClockFace = require("./ClockFace");
+
 const TwitterList = require("./TwitterList");
 const TwitterForm = require("./TwitterForm");
-
-let dummyData = [];
+// const Gradients = require("./Gradients")
 
 /* the main page for the index route of this app */
 const RootComponent = function(props) {
 
 
-	
 	// Initialize an array of tweets with an empty array
 	const [tweets, setTweets] = React.useState([]);
 
@@ -25,12 +23,12 @@ const RootComponent = function(props) {
 	// [] listening for the state (or not) 
 	React.useEffect(() => {
 		doFetchTweets();
+
 	}, []);
 
  	 return (
     <div>
       <h1>Dumb Colors!</h1>
-
       <TwitterForm />
       <TwitterList tweets={tweets}/>
 
