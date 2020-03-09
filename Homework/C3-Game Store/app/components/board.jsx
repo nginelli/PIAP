@@ -4,6 +4,7 @@ const Block = require("./squares.jsx");
 function Board(props) {
 
   //Game state stored in an array, null to start
+  //pure functional components - component is just a function
   const [squares, setSquares] = React.useState(Array(9).fill(null));
 
   //Player State
@@ -11,17 +12,17 @@ function Board(props) {
 
   //track clicks and seperate the squares
   function trackClick(i) {
-    const squaresBoth = squares.slice();
+    const squaresCopy = squares.slice();
 
-    if (squaresBoth[i] || whoWon(squaresBoth)) {
+    if (squaresCopy[i] || whoWon(squaresCopy)) {
       return;
     }
     if (player) {
-      squaresBoth[i] = 'I';
+      squaresCopy[i] = 'I';
     } else {
-      squaresBoth[i] = 'U';
+      squaresCopy[i] = 'U';
     }
-    setSquares(squaresBoth);
+    setSquares(squaresCopy);
     setPlayer(!player);
   }
 
