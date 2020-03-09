@@ -7,5 +7,3 @@ Homework Assignments
 [Class 4](https://github.com/nginelli/PIAP/tree/master/Homework/C4-Dumb%20Colors)<br />
 [Class 5 - Group](https://github.com/therealmaxkim/Pi-Temperature)<br />
 [Class 6 - Midterm: Hardware](https://github.com/chenweibo212/midterm_neopi) <br />
-[Class 6 - Midterm: Group](https://github.com/chenweibo212/midterm_neopi) 
-
