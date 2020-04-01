@@ -48,30 +48,30 @@ const GLDrawing = (p) => {
         gui.add(params, "scale", 0, 500);
         gui.add(params, "background", 0, 255);
 
-    p.preload = () => {
-            // load the shader
-            theShader = loadShader('assets/webcam.vert', 'assets/webcam.frag');
-    };
+    // p.preload = () => {
+    //         // load the shader
+    //         theShader = loadShader('assets/webcam.vert', 'assets/webcam.frag');
+    // };
 
     p.setup = () => {
         p.createCanvas(p.displayWidth, p.displayHeight, p.WEBGL);
         p.background(10, 255, 10);
         p.directionalLight(125, 125, 125, 0, 5, 8);
 
-        cam = p.createCapture(p.VIDEO);
-        cam.size(710, 400);
-     
-        cam.hide();
+        // cam = p.createCapture(p.VIDEO);
+        // cam.size(710, 400);
+        // cam.hide();
     };
     
     p.draw = () => {
         p.colorMode(p.HSB, 255);
         p.background(params.background, 255, params.background);
-        shader(theShader);
+        // shader(theShader);
               
         if (lastFeatures){
 
         lastFeatures.loudness.specific.forEach((loudness, i) =>{
+            // shader(theShader);
 
             const radius = loudness * params.scale;
 
@@ -80,7 +80,7 @@ const GLDrawing = (p) => {
             // p.rotateY(p.mouseY * 0.01);
 
             p.sphere(radius, 5, 100);
-            // p.normalMaterial();     
+            p.normalMaterial();     
 
         });
 
