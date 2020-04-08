@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.16.4",
     "jsx-loader": "^0.13.2",
+    "osmosis": "^1.1.10",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "webpack": "^4.30.0",
