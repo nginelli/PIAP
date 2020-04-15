@@ -4,7 +4,7 @@ const p5 = require("p5");
 // If you make your own model, this is where you'd link to it. This is a model
 // that I trained on making "heart hands", like this
 // https://image.shutterstock.com/image-photo/woman-making-heart-her-hands-600w-1211985307.jpg
-const imageModelURL = 'https://teachablemachine.withgoogle.com/models/sltRChS8U/';
+const imageModelURL = 'https://teachablemachine.withgoogle.com/models/pt2cTELnr/';
 
 // Whether or not you want to flip the video horizontally. If you trained your model
 // using your webcam, then you'll want to enable this
