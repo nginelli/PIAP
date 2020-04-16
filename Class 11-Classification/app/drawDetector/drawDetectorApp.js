@@ -4,7 +4,7 @@ const p5 = require("p5");
 // If you make your own model, this is where you'd link to it. This is a model
 // that I trained on drawings of circles and squares. It should be able to distinguish
 // those two at least
-const imageModelURL = 'https://teachablemachine.withgoogle.com/models/_W_IEN88s/';
+const imageModelURL = 'https://teachablemachine.withgoogle.com/models/Drxz0nhZt/';
 
 // Whether or not you want to flip the video horizontally. If you trained your model
 // using your webcam, then you'll want to enable this

@@ -1,0 +1,2831 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="msapplication-tap-highlight" content="no" />
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<title>DipNote - United States Department of State</title>
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- This site is optimized with the Yoast SEO plugin v13.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://www.state.gov/blogs/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="DipNote - United States Department of State" />
+<meta property="og:url" content="https://www.state.gov/blogs/" />
+<meta property="og:site_name" content="United States Department of State" />
+<meta property="og:image" content="https://www.state.gov/wp-content/uploads/2020/03/DipNote2_HP_Hero-Alt_GettyImages-713834891_v2-1024x521.png" />
+<meta property="og:image:secure_url" content="https://www.state.gov/wp-content/uploads/2020/03/DipNote2_HP_Hero-Alt_GettyImages-713834891_v2-1024x521.png" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="521" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="DipNote - United States Department of State" />
+<meta name="twitter:image" content="https://www.state.gov/wp-content/uploads/2020/03/DipNote2_HP_Hero-Alt_GettyImages-713834891_v2.png" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.state.gov/#website","url":"https://www.state.gov/","name":"United States Department of State","inLanguage":"en-US","potentialAction":[{"@type":"SearchAction","target":"https://www.state.gov/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"ImageObject","@id":"https://www.state.gov/blogs/#primaryimage","inLanguage":"en-US","url":"https://www.state.gov/wp-content/uploads/2020/03/DipNote2_HP_Hero-Alt_GettyImages-713834891_v2.png","width":2560,"height":1302},{"@type":"WebPage","@id":"https://www.state.gov/blogs/#webpage","url":"https://www.state.gov/blogs/","name":"DipNote - United States Department of State","isPartOf":{"@id":"https://www.state.gov/#website"},"inLanguage":"en-US","primaryImageOfPage":{"@id":"https://www.state.gov/blogs/#primaryimage"},"datePublished":"2019-12-16T20:41:44+00:00","dateModified":"2020-04-10T16:10:42+00:00","potentialAction":[{"@type":"ReadAction","target":["https://www.state.gov/blogs/"]}]}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//dospa-prod-pa.s3.amazonaws.com' />
+<link rel="alternate" type="application/rss+xml" title="United States Department of State &raquo; Feed" href="https://www.state.gov/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.state.gov\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='sb_instagram_styles-css'  href='https://www.state.gov/wp-content/plugins/instagram-feed/css/sb-instagram-2-2.min.css?ver=2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.state.gov/wp-includes/css/dist/block-library/style.min.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-sitemap-css-css'  href='https://www.state.gov/wp-content/plugins/wpgoplugins.com-simple-sitemap-pro/modules/css/simple-sitemap.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='ctf_styles-css'  href='https://www.state.gov/wp-content/plugins/custom-twitter-feeds/css/ctf-styles.min.css?ver=1.4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='related-posts-by-taxonomy-css'  href='https://www.state.gov/wp-content/plugins/related-posts-by-taxonomy/includes/assets/css/styles.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wmpci-public-style-css'  href='https://www.state.gov/wp-content/plugins/wp-modal-popup-with-cookie-integration/assets/css/wmpci-public.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='//use.fontawesome.com/releases/v5.1.0/css/all.css?ver=1585688921' type='text/css' media='all' />
+<link rel='preconnect stylesheet' id='state-google-fonts-css'  href='//fonts.googleapis.com/css?family=EB+Garamond:italic,bold,200,400,500,600,700%7COpen+Sans:italic,bold,200,400,500,600,700' type='text/css' media='all' crossorigin />
+<link rel='stylesheet' id='state-style-css'  href='https://www.state.gov/wp-content/themes/state/css/state.css?ver=1585688921' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_formsmain_css-css'  href='https://www.state.gov/wp-content/plugins/gravityforms/css/formsmain.min.css?ver=2.4.17.17' type='text/css' media='all' />
+<script type='text/javascript' src='//code.jquery.com/jquery-3.3.1.min.js?ver=3.3.1'></script>
+<script type='text/javascript' src='https://www.state.gov/wp-content/plugins/wpgoplugins.com-simple-sitemap-pro/modules/js/simple-sitemap.js?ver=5.4'></script>
+<script type='text/javascript' src='https://www.state.gov/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.11.4'></script>
+<link rel='https://api.w.org/' href='https://www.state.gov/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.state.gov/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.state.gov/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4" />
+<link rel='shortlink' href='https://www.state.gov/?p=115638' />
+<link rel="alternate" type="application/json+oembed" href="https://www.state.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.state.gov%2Fblogs%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.state.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.state.gov%2Fblogs%2F&#038;format=xml" />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">//<![CDATA[
+	var dataLayer_content = {"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"Tianna Hutchins"};
+	dataLayer.push( dataLayer_content );//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T9WK49Q');//]]>
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><link rel="icon" href="https://www.state.gov/wp-content/uploads/2019/02/cropped-Seal-of-the-U.S.-Department-of-State-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.state.gov/wp-content/uploads/2019/02/cropped-Seal-of-the-U.S.-Department-of-State-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.state.gov/wp-content/uploads/2019/02/cropped-Seal-of-the-U.S.-Department-of-State-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.state.gov/wp-content/uploads/2019/02/cropped-Seal-of-the-U.S.-Department-of-State-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+	.profile-card__wrapper .profile-card__image img { top: 63% !important; }
+}
+span.icon-svg, span.icon-svg svg {
+    width: auto;
+}
+.wmpci-popup-wrp.splash {
+    background: hsla( 217, 17%, 66%, 0.6 );
+}
+
+.wmpci-popup-body {
+    max-width: 750px;
+}
+
+.wpmci-popup-cnt-inr-wrp {
+    box-shadow: 0 0 17px 5px hsla(0, 0%, 12%, 0.2);
+    padding: 0;
+}
+
+.dos_popup_header {
+    height: auto;
+    width: 100%;
+}
+
+.wpmci-popup-cnt-inr-wrp h2 {
+    background: linear-gradient( to bottom, #062135 0, #062135 68px, #0a324c 68px, #0a324c 100% );
+    color: #fff !important;
+    font-family: "EB Garamond", Times, Serif;
+    font-size: 20px;
+    height: 168px;
+    margin-bottom: 60px !important;
+    padding-top: 111px;
+    position: relative;
+    text-transform: uppercase;
+}
+
+.wpmci-popup-cnt-inr-wrp h2 em {
+    display: inline-block;
+    margin-right: 0.25em;
+    text-transform: none;
+}
+
+.wpmci-popup-cnt-inr-wrp h2::before {
+    background: center / contain no-repeat url('/wp-content/themes/state/images/state-favicon.png');
+    content: '';
+    display: block;
+    height: 70px;
+    left: 50%;
+    position: absolute;
+    top: 19px;
+    transform: translateX( -50% );
+    width: 70px;
+}
+
+.wpmci-popup-cnt-inr-wrp h4 {
+    color: #0a314d !important;
+    font-family: "EB Garamond", Times, Serif;
+    font-size: 36px;
+    font-weight: 400;
+    letter-spacing: -0.5px;
+    line-height: 42px;
+    margin-bottom:30px;
+}
+
+.dos_popup_copy {
+    color: #333;
+    font-family: "Open Sans", Arial, Sans-Serif;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: -0.25px;
+    line-height: 28px;
+    margin: 40px auto 50px !important;
+    width: 80%;
+}
+
+.dos_popup_close {
+    border: 3px #D11F27 solid;
+    color: #0a314d;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Open Sans", Arial, Sans-Serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    height: 72px;
+    letter-spacing: 1.5px;
+    margin: 0 auto 30px;
+    padding: 10px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.dos_popup_close:hover {
+    color: #8d98aa;
+}
+
+.dos_popup_close::after {
+    color: #d01319;
+    margin-left: 10px;
+}
+.collection-result .collection-result-meta span {
+    border-right: 2px solid #ccc;
+    margin: 20px 15px 0 0;
+    padding-right: 15px;
+}
+.collection-result .collection-result-meta span:last-child {
+    border: 0;
+    margin: 20px 0 0;
+    padding: 0;
+}
+@media only screen and (min-width: 600px) {
+	.collection-result .collection-result-meta span {
+		white-space: nowrap;
+	}
+}
+.collection-result-meta .divider {
+    display: none;
+}		</style>
+		<!-- We participate in the US government's analytics program. See the data at analytics.usa.gov. -->
+<script async="async" type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOS" id="_fed_an_ua_tag"></script>
+<script type="text/javascript">
+;(function (g) {
+var d = document, am = d.createElement("script"), h = d.head || d.getElementsByTagName("head")[0], fsr = "fsReady",
+aex = {
+"src": "/wp-content/themes/state/foresee_assets/js/gateway.min.js",
+"type": "text/javascript",
+"async": "true",
+"data-vendor": "fs",
+"data-mode": "selfhost",
+"data-environment": "production",
+"data-hasssl": "true",
+"data-client": "state-gov",
+"data-codelocation": "/wp-content/themes/state/foresee_assets/code/19.11.1/",
+"data-isselfhosted": "true",
+"data-product-assets": "/wp-content/themes/state/foresee_assets/product_assets/",
+"data-role": "gateway"
+};
+for (var attr in aex){am.setAttribute(attr, aex[attr]);}h.appendChild(am); g[fsr] || (g[fsr] = function () {var aT = "__" + fsr + "_stk__";g[aT] = g[aT] || [];g[aT].push(arguments);});})(window);
+</script>
+
+</head>
+
+<body class="page-template page-template-dipnote-landing page-template-dipnote-landing-php page page-id-115638 has-bureau-subnav">
+
+<div id="page" class="site">
+
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	
+	
+
+	
+	<header id="masthead" class="site-header nav__main-header">
+
+	<div class="nav__utility-wrapper">
+		<nav class="site-nav site-nav--utility nav__wrapper nav__utility"><ul id="menu-utility-menu" class="nav__utility-items"><li id="menu-item-7457" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7457"><a href="https://www.state.gov/press/">Press</a></li>
+<li id="menu-item-7458" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7458"><a href="https://www.state.gov/business/">Business</a></li>
+<li id="menu-item-7459" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7459"><a href="https://www.state.gov/current-employees/">Current Employees</a></li>
+<li id="menu-item-7460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7460"><a href="https://www.state.gov/job-seekers/">Job Seekers</a></li>
+<li id="menu-item-7461" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7461"><a href="https://www.state.gov/students/">Students</a></li>
+<li id="menu-item-7462" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7462"><a href="https://www.state.gov/travelers/">Travelers</a></li>
+</ul></nav>	</div>
+
+	<div class="nav__wrapper">
+		<ul class="nav__header-buttons">
+			<li><a class="nav__nav-trigger" href="#nav__primary-nav">Menu<span></span></a></li>
+			<li>
+				<a class="nav__logo" href="https://www.state.gov"><span class="screen-reader-text">State Department Home</span></a>
+			</li>
+			<li><button class="nav__search-trigger" type="button">Search<span></span></button></li>
+		</ul>
+		<!-- nav__header-buttons -->
+	</div>
+
+</header>
+<nav class="site-nav site-nav--primary nav__nav"><ul id="nav__primary-nav" class="nav__primary-nav is-fixed"><li class="nav__large-logo-wrapper menu-item menu-item-type-post_type menu-item-object-page menu-item-home"><a href="https://www.state.gov/"><div class="nav__large-logo-img"><span class="screen-reader-text">State Department Home</span></div></a></li>
+<li class=" menu-item menu-item-type-custom menu-item-object-custom has-children" role="navigation" aria-label="Primary Navigation"><button>Policy Issues</button>
+	<ul class="nav__secondary-nav is-hidden sub-menu">
+
+		<li class="nav__go-back"><button type="button">Back</button></li>
+
+		<li class="nav__policies row">
+
+			<p class="nav__policies-header">Policy <span class="nav__policies-header-decor">Issues</span></p>
+
+			<div class="nav__policies-list">
+
+				<div class="nav__policies-list-items">
+
+					
+						<div class="nav__policies-list-item"><a href="https://policy.state.gov/5g/"
+
+						
+													class=""
+						
+						
+						>5G Security</a></div>
+
+					
+						<div class="nav__policies-list-item"><a href="https://www.state.gov/policy-issues/anti-corruption-and-transparency/"
+
+						
+													class=""
+						
+						
+						>Anti-Corruption and Transparency</a></div>
+
+					
+						<div class="nav__policies-list-item"><a href="https://www.state.gov/policy-issues/arms-control-and-nonproliferation/"
+
+						
+													class=""
+						
+						
+						>Arms Control and Nonproliferation</a></div>
+
+					
+						<div class="nav__policies-list-item"><a href="https://www.state.gov/policy-issues/climate-and-environment/"
+
+						
+													class=""
+						
+						
+						>Climate and Environment</a></div>
+
+					
+						<div class="nav__policies-list-item"><a href="https://www.state.gov/policy-issues/combating-drugs-and-crime/"
+
+						
+													class=""
+						
+						
+						>Combating Drugs and Crime</a></div>
+
+					
+						<div class="nav__policies-list-item"><a href="https://www.state.gov/coronavirus/"
+
+						
+													class=""
+						
+						
+						>Coronavirus</a></div>
+
+					
+						<div class="nav__policies-list-item"><a href="https://www.state.gov/policy-issues/countering-terrorism/"
+
+						
+													class=""
+						
+						
+						>Countering Terrorism</a></div>
+
+					
+						<div class="nav__policies-list-item"><a href="https://www.state.gov/policy-issues/cyber-issues/"
+
+						
+													class=""
+						
+						
+						>Cyber Issues</a></div>
+
+					
+						<div class="nav__policies-list-item"><a href="https://www.state.gov/policy-issues/economic-prosperity-and-trade-policy/"
+
+						
+													class=""
+						
+						
+						>Economic Prosperity and Trade Policy</a></div>
+
+					
+						<div class="nav__policies-list-item"><a href="https://www.state.gov/policy-issues/energy/"
+
+						
+													class=""
+						
+						
+						>Energy</a></div>
+
+					
+						<div class="nav__policies-list-item"><a href="https://www.state.gov/policy-issues/global-health/"
+
+						
+													class=""
+						
+						
+						>Global Health</a></div>
+
+					
+						<div class="nav__policies-list-item"><a href="https://www.state.gov/policy-issues/global-womens-issues/"
+
+						
+													class=""
+						
+						
+						>Global Women&#039;s Issues</a></div>
+
+					
+						<div class="nav__policies-list-item"><a href="https://www.state.gov/policy-issues/human-rights-and-democracy/"
+
+						
+													class=""
+						
+						
+						>Human Rights and Democracy</a></div>
+
+					
+						<div class="nav__policies-list-item"><a href="https://www.state.gov/policy-issues/human-trafficking/"
+
+						
+													class=""
+						
+						
+						>Human Trafficking</a></div>
+
+					
+						<div class="nav__policies-list-item"><a href="https://www.state.gov/policy-issues/the-ocean-and-polar-affairs/"
+
+						
+													class=""
+						
+						
+						>The Ocean and Polar Affairs</a></div>
+
+					
+						<div class="nav__policies-list-item"><a href="https://www.state.gov/policy-issues/refugee-and-humanitarian-assistance/"
+
+						
+													class=""
+						
+						
+						>Refugee and Humanitarian Assistance</a></div>
+
+					
+						<div class="nav__policies-list-item"><a href="https://www.state.gov/policy-issues/science-technology-and-innovation/"
+
+						
+													class=""
+						
+						
+						>Science, Technology, and Innovation</a></div>
+
+					
+						<div class="nav__policies-list-item"><a href="https://www.state.gov/policy-issues/treaties-and-international-agreements/"
+
+						
+													class=""
+						
+						
+						>Treaties and International Agreements</a></div>
+
+					
+				</div>
+
+			</div>
+
+		</li>
+
+	</ul>
+	</li>
+<li class=" menu-item menu-item-type-custom menu-item-object-custom has-children js-chosen-trigger" role="navigation" aria-label="Primary Navigation"><button>Countries &#038; Areas</button>
+
+	<ul class="nav__secondary-nav is-hidden sub-menu">
+
+		<li class="nav__go-back"><button type="button">Back</button></li>
+
+		<li class="nav__countries row">
+
+			<p class="nav__countries-header">Countries &amp; <span class="nav__countries-header-decor">Areas</span></p>
+
+			<div class="nav__countries-content">
+
+				<label for="country-navigation">Search for country or area</label>
+
+				<select data-component="chosenselect" data-search-placeholder="Search for country or area" data-auto-open="true" name="country-filter" id="country-navigation" data-search-label="country-search">
+
+					
+						
+						<option data-always-display="true" class="nav__countries-index" disabled>A</option><option value=https://www.state.gov/countries-areas/afghanistan/>Afghanistan</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/albania/>Albania</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/algeria/>Algeria</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/andorra/>Andorra</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/angola/>Angola</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/antigua-and-barbuda/>Antigua and Barbuda</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/argentina/>Argentina</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/armenia/>Armenia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/australia/>Australia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/austria/>Austria</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/azerbaijan/>Azerbaijan</option>
+					
+						
+						<option data-always-display="true" class="nav__countries-index" disabled>B</option><option value=https://www.state.gov/countries-areas/bahamas/>Bahamas</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/bahrain/>Bahrain</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/bangladesh/>Bangladesh</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/barbados/>Barbados</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/belarus/>Belarus</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/belgium/>Belgium</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/belize/>Belize</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/benin/>Benin</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/bhutan/>Bhutan</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/bolivia/>Bolivia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/bosnia-and-herzegovina/>Bosnia and Herzegovina</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/botswana/>Botswana</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/brazil/>Brazil</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/brunei/>Brunei</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/bulgaria/>Bulgaria</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/burkina-faso/>Burkina Faso</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/burma/>Burma</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/burundi/>Burundi</option>
+					
+						
+						<option data-always-display="true" class="nav__countries-index" disabled>C</option><option value=https://www.state.gov/countries-areas/cabo-verde/>Cabo Verde</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/cambodia/>Cambodia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/cameroon/>Cameroon</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/canada/>Canada</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/central-african-republic/>Central African Republic</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/chad/>Chad</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/chile/>Chile</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/china/>China</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/colombia/>Colombia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/comoros/>Comoros</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/costa-rica/>Costa Rica</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/cote-divoire/>Côte d’Ivoire</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/croatia/>Croatia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/cuba/>Cuba</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/cyprus/>Cyprus</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/czechia/>Czechia</option>
+					
+						
+						<option data-always-display="true" class="nav__countries-index" disabled>D</option><option value=https://www.state.gov/countries-areas/democratic-republic-of-the-congo/>Democratic Republic of the Congo</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/denmark/>Denmark</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/djibouti/>Djibouti</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/dominica/>Dominica</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/dominican-republic/>Dominican Republic</option>
+					
+						
+						<option data-always-display="true" class="nav__countries-index" disabled>E</option><option value=https://www.state.gov/countries-areas/ecuador/>Ecuador</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/egypt/>Egypt</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/el-salvador/>El Salvador</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/equatorial-guinea/>Equatorial Guinea</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/eritrea/>Eritrea</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/estonia/>Estonia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/eswatini/>Eswatini</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/ethiopia/>Ethiopia</option>
+					
+						
+						<option data-always-display="true" class="nav__countries-index" disabled>F</option><option value=https://www.state.gov/countries-areas/fiji/>Fiji</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/finland/>Finland</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/france/>France</option>
+					
+						
+						<option data-always-display="true" class="nav__countries-index" disabled>G</option><option value=https://www.state.gov/countries-areas/gabon/>Gabon</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/gambia/>Gambia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/georgia/>Georgia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/germany/>Germany</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/ghana/>Ghana</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/greece/>Greece</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/grenada/>Grenada</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/guatemala/>Guatemala</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/guinea/>Guinea</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/guinea-bissau/>Guinea-Bissau</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/guyana/>Guyana</option>
+					
+						
+						<option data-always-display="true" class="nav__countries-index" disabled>H</option><option value=https://www.state.gov/countries-areas/haiti/>Haiti</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/holy-see/>Holy See</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/honduras/>Honduras</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/hungary/>Hungary</option>
+					
+						
+						<option data-always-display="true" class="nav__countries-index" disabled>I</option><option value=https://www.state.gov/countries-areas/iceland/>Iceland</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/india/>India</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/indonesia/>Indonesia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/iran/>Iran</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/iraq/>Iraq</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/ireland/>Ireland</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/israel/>Israel</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/italy/>Italy</option>
+					
+						
+						<option data-always-display="true" class="nav__countries-index" disabled>J</option><option value=https://www.state.gov/countries-areas/jamaica/>Jamaica</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/japan/>Japan</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/jordan/>Jordan</option>
+					
+						
+						<option data-always-display="true" class="nav__countries-index" disabled>K</option><option value=https://www.state.gov/countries-areas/kazakhstan/>Kazakhstan</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/kenya/>Kenya</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/kiribati/>Kiribati</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/kosovo/>Kosovo</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/kuwait/>Kuwait</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/kyrgyzstan/>Kyrgyzstan</option>
+					
+						
+						<option data-always-display="true" class="nav__countries-index" disabled>L</option><option value=https://www.state.gov/countries-areas/laos/>Laos</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/latvia/>Latvia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/lebanon/>Lebanon</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/lesotho/>Lesotho</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/liberia/>Liberia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/libya/>Libya</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/liechtenstein/>Liechtenstein</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/lithuania/>Lithuania</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/luxembourg/>Luxembourg</option>
+					
+						
+						<option data-always-display="true" class="nav__countries-index" disabled>M</option><option value=https://www.state.gov/countries-areas/madagascar/>Madagascar</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/malawi/>Malawi</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/malaysia/>Malaysia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/maldives/>Maldives</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/mali/>Mali</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/malta/>Malta</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/marshall-islands/>Marshall Islands</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/mauritania/>Mauritania</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/mauritius/>Mauritius</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/mexico/>Mexico</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/micronesia/>Micronesia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/moldova/>Moldova</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/monaco/>Monaco</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/mongolia/>Mongolia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/montenegro/>Montenegro</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/morocco/>Morocco</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/mozambique/>Mozambique</option>
+					
+						
+						<option data-always-display="true" class="nav__countries-index" disabled>N</option><option value=https://www.state.gov/countries-areas/namibia/>Namibia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/nauru/>Nauru</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/nepal/>Nepal</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/netherlands/>Netherlands</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/new-zealand/>New Zealand</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/nicaragua/>Nicaragua</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/niger/>Niger</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/nigeria/>Nigeria</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/north-korea/>North Korea</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/north-macedonia/>North Macedonia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/norway/>Norway</option>
+					
+						
+						<option data-always-display="true" class="nav__countries-index" disabled>O</option><option value=https://www.state.gov/countries-areas/oman/>Oman</option>
+					
+						
+						<option data-always-display="true" class="nav__countries-index" disabled>P</option><option value=https://www.state.gov/countries-areas/pakistan/>Pakistan</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/palau/>Palau</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/panama/>Panama</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/papua-new-guinea/>Papua New Guinea</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/paraguay/>Paraguay</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/peru/>Peru</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/philippines/>Philippines</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/poland/>Poland</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/portugal/>Portugal</option>
+					
+						
+						<option data-always-display="true" class="nav__countries-index" disabled>Q</option><option value=https://www.state.gov/countries-areas/qatar/>Qatar</option>
+					
+						
+						<option data-always-display="true" class="nav__countries-index" disabled>R</option><option value=https://www.state.gov/countries-areas/republic-of-the-congo/>Republic of the Congo</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/romania/>Romania</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/russia/>Russia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/rwanda/>Rwanda</option>
+					
+						
+						<option data-always-display="true" class="nav__countries-index" disabled>S</option><option value=https://www.state.gov/countries-areas/saint-kitts-and-nevis/>Saint Kitts and Nevis</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/saint-lucia/>Saint Lucia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/saint-vincent-and-the-grenadines/>Saint Vincent and the Grenadines</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/samoa/>Samoa</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/san-marino/>San Marino</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/sao-tome-and-principe/>São Tomé and Príncipe</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/saudi-arabia/>Saudi Arabia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/senegal/>Senegal</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/serbia/>Serbia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/seychelles/>Seychelles</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/sierra-leone/>Sierra Leone</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/singapore/>Singapore</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/slovakia/>Slovakia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/slovenia/>Slovenia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/solomon-islands/>Solomon Islands</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/somalia/>Somalia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/south-africa/>South Africa</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/south-korea/>South Korea</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/south-sudan/>South Sudan</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/spain/>Spain</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/sri-lanka/>Sri Lanka</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/sudan/>Sudan</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/suriname/>Suriname</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/sweden/>Sweden</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/switzerland/>Switzerland</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/syria/>Syria</option>
+					
+						
+						<option data-always-display="true" class="nav__countries-index" disabled>T</option><option value=https://www.state.gov/countries-areas/taiwan/>Taiwan</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/tajikistan/>Tajikistan</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/tanzania/>Tanzania</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/thailand/>Thailand</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/timor-leste/>Timor-Leste</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/togo/>Togo</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/tonga/>Tonga</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/trinidad-and-tobago/>Trinidad and Tobago</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/tunisia/>Tunisia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/turkey/>Turkey</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/turkmenistan/>Turkmenistan</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/tuvalu/>Tuvalu</option>
+					
+						
+						<option data-always-display="true" class="nav__countries-index" disabled>U</option><option value=https://www.state.gov/countries-areas/uganda/>Uganda</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/ukraine/>Ukraine</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/united-arab-emirates/>United Arab Emirates</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/united-kingdom/>United Kingdom</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/uruguay/>Uruguay</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/uzbekistan/>Uzbekistan</option>
+					
+						
+						<option data-always-display="true" class="nav__countries-index" disabled>V</option><option value=https://www.state.gov/countries-areas/vanuatu/>Vanuatu</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/venezuela/>Venezuela</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/vietnam/>Vietnam</option>
+					
+						
+						<option data-always-display="true" class="nav__countries-index" disabled>Y</option><option value=https://www.state.gov/countries-areas/yemen/>Yemen</option>
+					
+						
+						<option data-always-display="true" class="nav__countries-index" disabled>Z</option><option value=https://www.state.gov/countries-areas/zambia/>Zambia</option>
+					
+						
+						<option value=https://www.state.gov/countries-areas/zimbabwe/>Zimbabwe</option>
+					
+				</select>
+
+				
+			</div>
+
+		</li>
+
+	</ul>
+
+	</li>
+<li class=" menu-item menu-item-type-custom menu-item-object-custom has-children" role="navigation" aria-label="Primary Navigation"><button>About</button>
+	<ul class="nav__secondary-nav is-hidden">
+
+		<li class="nav__go-back"><button type="button">Back</button></li>
+
+		<li class="nav__about row">
+
+			<p class="nav__about-header"><span class="nav__about-header-decor">About</span></p>
+
+			<div class="nav__about-list">
+
+				<div class="nav__about-list-items">
+
+				
+					<div class="nav__about-list-container">
+
+						
+
+							
+								<p class="nav__about-list-header">Mission</p>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="About the U.S. Department of State" href="https://www.state.gov/about/about-the-u-s-department-of-state/"
+
+										
+																					class=""
+										
+										>
+
+										About the U.S. Department of State
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Professional Ethos" href="https://www.state.gov/about/professional-ethos"
+
+										
+																					class=""
+										
+										>
+
+										Professional Ethos
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Joint Strategic Plan" href="https://www.state.gov/joint-strategic-plan/"
+
+										
+																					class=""
+										
+										>
+
+										Joint Strategic Plan
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Foreign Affairs Manual and Handbook" href="https://fam.state.gov/"
+
+																					target="_blank"
+										
+																					class=""
+										
+										>
+
+										Foreign Affairs Manual and Handbook
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Department of State by State Map" href="https://www.state.gov/department-of-state-by-state/"
+
+										
+																					class=""
+										
+										>
+
+										Department of State by State Map
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="We Are the U.S. Department of State" href="https://www.state.gov/we-are-the-u-s-department-of-state/"
+
+										
+																					class=""
+										
+										>
+
+										We Are the U.S. Department of State
+									</a>
+
+								</div>
+
+							
+						
+					</div>
+
+				
+					<div class="nav__about-list-container">
+
+						
+
+							
+								<p class="nav__about-list-header">Leadership</p>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="The Secretary of State" href="https://www.state.gov/secretary/"
+
+										
+																					class=""
+										
+										>
+
+										The Secretary of State
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Deputy Secretary of State" href="https://www.state.gov/bureaus-offices/deputy-secretary-of-state/"
+
+										
+																					class=""
+										
+										>
+
+										Deputy Secretary of State
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Executive Secretariat" href="https://www.state.gov/bureaus-offices/bureaus-and-offices-reporting-directly-to-the-secretary/executive-secretariat/"
+
+										
+																					class=""
+										
+										>
+
+										Executive Secretariat
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Counselor of the Department" href="https://www.state.gov/bureaus-offices/bureaus-and-offices-reporting-directly-to-the-secretary/counselor-of-the-department/"
+
+										
+																					class=""
+										
+										>
+
+										Counselor of the Department
+									</a>
+
+								</div>
+
+							
+						
+					</div>
+
+				
+					<div class="nav__about-list-container">
+
+						
+
+							
+								<p class="nav__about-list-header">Administrative</p>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Department Reports and Publications" href="https://www.state.gov/department-reports/"
+
+										
+																					class=""
+										
+										>
+
+										Department Reports and Publications
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Agency Financial Reports" href="https://www.state.gov/plans-performance-budget/agency-financial-reports/"
+
+										
+																					class=""
+										
+										>
+
+										Agency Financial Reports
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Form Finder" href="https://eforms.state.gov/"
+
+										
+																					class=""
+										
+										>
+
+										Form Finder
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Organization Chart" href="https://www.state.gov/department-of-state-organization-chart/"
+
+										
+																					class=""
+										
+										>
+
+										Organization Chart
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Plans, Performance, Budget" href="https://www.state.gov/plans-performance-budget/"
+
+										
+																					class=""
+										
+										>
+
+										Plans, Performance, Budget
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Information Quality Act" href="https://www.state.gov/information-quality-act"
+
+										
+																					class=""
+										
+										>
+
+										Information Quality Act
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Open Government Initiative" href="https://www.state.gov/open-government-initiative/"
+
+										
+																					class=""
+										
+										>
+
+										Open Government Initiative
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Digital Government Strategy" href="https://www.state.gov/digital-government-strategy/"
+
+										
+																					class=""
+										
+										>
+
+										Digital Government Strategy
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Plain Writing Program" href="https://www.state.gov/plain-writing-at-the-department-of-state/"
+
+										
+																					class=""
+										
+										>
+
+										Plain Writing Program
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Partner With State" href="https://www.state.gov/contact-us-office-of-global-partnerships/"
+
+										
+																					class=""
+										
+										>
+
+										Partner With State
+									</a>
+
+								</div>
+
+							
+						
+					</div>
+
+				
+					<div class="nav__about-list-container">
+
+						
+
+							
+								<p class="nav__about-list-header">History</p>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Foreign Relations of the United States" href="https://history.state.gov/"
+
+																					target="_blank"
+										
+																					class=""
+										
+										>
+
+										Foreign Relations of the United States
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Previous Administration Archives" href="https://www.state.gov/u-s-department-of-state-archive-websites/"
+
+										
+																					class=""
+										
+										>
+
+										Previous Administration Archives
+									</a>
+
+								</div>
+
+							
+						
+					</div>
+
+				
+					<div class="nav__about-list-container">
+
+						
+
+							
+								<p class="nav__about-list-header">Directories</p>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Biographies of Senior Officials" href="https://www.state.gov/biographies-list/"
+
+										
+																					class=""
+										
+										>
+
+										Biographies of Senior Officials
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Contact Us" href="https://register.state.gov/contactus/contactusform"
+
+										
+																					class=""
+										
+										>
+
+										Contact Us
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Telephone Directory" href="https://www.state.gov/telephone-directory/"
+
+										
+																					class=""
+										
+										>
+
+										Telephone Directory
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="U.S. Ambassadors" href="https://www.state.gov/resources-bureau-of-human-resources/#ambassadors"
+
+										
+																					class=""
+										
+										>
+
+										U.S. Ambassadors
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="U.S. Embassies and Other Posts" href="https://www.usembassy.gov/"
+
+										
+																					class=""
+										
+										>
+
+										U.S. Embassies and Other Posts
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Country Offices Directory" href="https://www.state.gov/telephone-directory/"
+
+										
+																					class=""
+										
+										>
+
+										Country Offices Directory
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Key Officers of Foreign Service Posts" href="https://www.state.gov/telephone-directory/"
+
+										
+																					class=""
+										
+										>
+
+										Key Officers of Foreign Service Posts
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Diplomats in Residence" href="https://careers.state.gov/connect/dir/"
+
+										
+																					class=""
+										
+										>
+
+										Diplomats in Residence
+									</a>
+
+								</div>
+
+							
+						
+					</div>
+
+				
+					<div class="nav__about-list-container">
+
+						
+
+							
+								<p class="nav__about-list-header">Visit</p>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Diplomatic Reception Rooms" href="https://diplomaticrooms.state.gov/"
+
+																					target="_blank"
+										
+																					class=""
+										
+										>
+
+										Diplomatic Reception Rooms
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="National Museum of American Diplomacy" href="https://diplomacy.state.gov/"
+
+																					target="_blank"
+										
+																					class=""
+										
+										>
+
+										National Museum of American Diplomacy
+									</a>
+
+								</div>
+
+							
+						
+
+							
+								<div class="nav__about-list-item">
+
+									<a aria-label="Art in Embassies" href="https://art.state.gov/"
+
+																					target="_blank"
+										
+																					class=""
+										
+										>
+
+										Art in Embassies
+									</a>
+
+								</div>
+
+							
+						
+					</div>
+
+				
+				</div>
+
+			</div>
+
+		</li>
+
+	</ul>
+
+	</li>
+<li class=" menu-item menu-item-type-custom menu-item-object-custom has-children" role="navigation" aria-label="Primary Navigation"><button>Bureaus &#038; Offices</button>
+	<ul class="nav__secondary-nav is-hidden">
+
+		<li class="nav__go-back"><button type="button">Back</button></li>
+
+		<li class="nav__bureaus-offices row">
+
+			<p class="nav__bureaus-offices-header js-panel-header">Bureaus &amp; <span class="nav__bureaus-offices-header-decor">Offices</span></p>
+
+			<div class="nav__bureaus-offices-content">
+				<div class="nav__bureaus-offices-content-container">
+					<ul class="nav__bureaus-offices-list">
+
+						<li class="has-children"><button type="button">Deputy Secretary of State</button><ul class="nav__bureaus-offices-internal is-hidden is-cloaked"><li class="nav__bureaus-offices-internal-item nav__bureaus-offices-internal-item--header"><button type="button">Deputy Secretary of State</button></li>
+<li class="nav__bureaus-offices-internal-item"><a tabindex="-1"  href="https://www.state.gov/bureaus-offices/deputy-secretary-of-state/">Deputy Secretary of State</a></li>
+
+<li class="nav__bureaus-offices-internal-item"><a tabindex="-1"  href="https://www.state.gov/bureaus-offices/office-of-small-and-disadvantaged-business-utilization/">Office of Small and Disadvantaged Business Utilization</a></li>
+</ul></li><li class="has-children"><button type="button">Reporting Directly to the Secretary</button><ul class="nav__bureaus-offices-internal is-hidden is-cloaked"><li class="nav__bureaus-offices-internal-item nav__bureaus-offices-internal-item--header"><button type="button">Reporting Directly to the Secretary</button></li>
+<li class="nav__bureaus-offices-internal-item"><a tabindex="-1"  href="https://www.state.gov/bureaus-offices/bureaus-and-offices-reporting-directly-to-the-secretary/">Bureaus and Offices Reporting Directly to the Secretary</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/bureaus-and-offices-reporting-directly-to-the-secretary/bureau-of-intelligence-and-research/">Bureau of Intelligence and Research</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/bureaus-and-offices-reporting-directly-to-the-secretary/bureau-of-legislative-affairs/">Bureau of Legislative Affairs</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/bureaus-and-offices-reporting-directly-to-the-secretary/counselor-of-the-department/">Counselor of the Department</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/bureaus-and-offices-reporting-directly-to-the-secretary/executive-secretariat/">Executive Secretariat</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/bureaus-and-offices-reporting-directly-to-the-secretary/office-of-civil-rights/">Office of Civil Rights</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/bureaus-and-offices-reporting-directly-to-the-secretary/office-of-global-womens-issues">Office of Global Women&#039;s Issues</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/bureaus-and-offices-reporting-directly-to-the-secretary/office-of-the-chief-of-protocol/">Office of the Chief of Protocol</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/bureaus-and-offices-reporting-directly-to-the-secretary/office-of-the-coordinator-for-cyber-issues/">Office of the Coordinator for Cyber Issues</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/bureaus-and-offices-reporting-directly-to-the-secretary/office-of-the-legal-adviser/">Office of the Legal Adviser</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/bureaus-and-offices-reporting-directly-to-the-secretary/office-of-the-ombudsman/">Office of the Ombudsman</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/pepfar/">Office of the U.S. Global AIDS Coordinator and Global Health Diplomacy</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/bureaus-and-offices-reporting-directly-to-the-secretary/office-of-u-s-foreign-assistance-resources/">Office of U.S. Foreign Assistance Resources</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/bureaus-and-offices-reporting-directly-to-the-secretary/policy-planning-staff/">Policy Planning Staff</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/bureaus-and-offices-reporting-directly-to-the-secretary/special-presidential-envoy-for-hostage-affairs/">Special Presidential Envoy for Hostage Affairs</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/bureaus-and-offices-reporting-directly-to-the-secretary/special-representative-for-afghanistan-reconciliation/">Special Representative for Afghanistan Reconciliation</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/bureaus-and-offices-reporting-directly-to-the-secretary/special-representative-for-iran/">Special Representative for Iran</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/bureaus-and-offices-reporting-directly-to-the-secretary/office-of-the-secretarys-special-representative-for-syria-engagement/">Special Representative for Syria Engagement</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/bureaus-and-offices-reporting-directly-to-the-secretary/special-representative-for-venezuela/">Special Representative for Venezuela</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/bureaus-and-offices-reporting-directly-to-the-secretary/the-global-coalition-to-defeat-isis/">The Global Coalition To Defeat ISIS</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/bureaus-and-offices-reporting-directly-to-the-secretary/united-states-security-coordinator-for-israel-and-the-palestinian-authority/">U.S. Security Coordinator for Israel and the Palestinian Authority</a></li>
+</ul></li><li class="has-children"><button type="button">Arms Control and International Security</button><ul class="nav__bureaus-offices-internal is-hidden is-cloaked"><li class="nav__bureaus-offices-internal-item nav__bureaus-offices-internal-item--header"><button type="button">Arms Control and International Security</button></li>
+<li class="nav__bureaus-offices-internal-item"><a tabindex="-1"  href="https://www.state.gov/bureaus-offices/under-secretary-for-arms-control-and-international-security-affairs/">Under Secretary for Arms Control and International Security</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-arms-control-and-international-security-affairs/bureau-of-arms-control-verification-and-compliance/">Bureau of Arms Control, Verification and Compliance</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-arms-control-and-international-security-affairs/bureau-of-international-security-and-nonproliferation/">Bureau of International Security and Nonproliferation</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-arms-control-and-international-security-affairs/bureau-of-political-military-affairs/">Bureau of Political-Military Affairs</a></li>
+</ul></li><li class="has-children"><button type="button">Civilian Security, Democracy, and Human Rights</button><ul class="nav__bureaus-offices-internal is-hidden is-cloaked"><li class="nav__bureaus-offices-internal-item nav__bureaus-offices-internal-item--header"><button type="button">Civilian Security, Democracy, and Human Rights</button></li>
+<li class="nav__bureaus-offices-internal-item"><a tabindex="-1"  href="https://www.state.gov/bureaus-offices/under-secretary-for-civilian-security-democracy-and-human-rights/">Under Secretary for Civilian Security, Democracy, and Human Rights</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-civilian-security-democracy-and-human-rights/bureau-of-conflict-and-stabilization-operations/">Bureau of Conflict and Stabilization Operations</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-civilian-security-democracy-and-human-rights/bureau-of-counterterrorism/">Bureau of Counterterrorism</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-civilian-security-democracy-and-human-rights/bureau-of-democracy-human-rights-and-labor/">Bureau of Democracy, Human Rights, and Labor</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-civilian-security-democracy-and-human-rights/bureau-of-international-narcotics-and-law-enforcement-affairs/">Bureau of International Narcotics and Law Enforcement Affairs</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-civilian-security-democracy-and-human-rights/bureau-of-population-refugees-and-migration/">Bureau of Population, Refugees, and Migration</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-civilian-security-democracy-and-human-rights/office-of-global-criminal-justice/">Office of Global Criminal Justice</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-civilian-security-democracy-and-human-rights/office-of-international-religious-freedom/">Office of International Religious Freedom</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-civilian-security-democracy-and-human-rights/office-of-the-special-envoy-to-monitor-and-combat-anti-semitism/">Office of the Special Envoy To Monitor and Combat Anti-Semitism</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-civilian-security-democracy-and-human-rights/office-to-monitor-and-combat-trafficking-in-persons/">Office to Monitor and Combat Trafficking in Persons</a></li>
+</ul></li><li class="has-children"><button type="button">Economic Growth, Energy, and Environment</button><ul class="nav__bureaus-offices-internal is-hidden is-cloaked"><li class="nav__bureaus-offices-internal-item nav__bureaus-offices-internal-item--header"><button type="button">Economic Growth, Energy, and Environment</button></li>
+<li class="nav__bureaus-offices-internal-item"><a tabindex="-1"  href="https://www.state.gov/bureaus-offices/under-secretary-for-economic-growth-energy-and-the-environment/">Under Secretary for Economic Growth, Energy, and the Environment</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-economic-growth-energy-and-the-environment/bureau-of-economic-and-business-affairs/">Bureau of Economic and Business Affairs</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-economic-growth-energy-and-the-environment/bureau-of-energy-resources/">Bureau of Energy Resources</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-economic-growth-energy-and-the-environment/bureau-of-oceans-and-international-environmental-and-scientific-affairs/">Bureau of Oceans and International Environmental and Scientific Affairs</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-economic-growth-energy-and-the-environment/office-of-global-partnerships/">Office of Global Partnerships</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-economic-growth-energy-and-the-environment/office-of-the-chief-economist/">Office of the Chief Economist</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-economic-growth-energy-and-the-environment/office-of-the-science-technology-adviser/">Office of the Science and Technology Adviser</a></li>
+</ul></li><li class="has-children"><button type="button">Management</button><ul class="nav__bureaus-offices-internal is-hidden is-cloaked"><li class="nav__bureaus-offices-internal-item nav__bureaus-offices-internal-item--header"><button type="button">Management</button></li>
+<li class="nav__bureaus-offices-internal-item"><a tabindex="-1"  href="https://www.state.gov/bureaus-offices/under-secretary-for-management/">Under Secretary for Management</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-management/bureau-of-administration/">Bureau of Administration</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-management/bureau-of-budget-and-planning/">Bureau of Budget and Planning</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-management/bureau-of-consular-affairs/">Bureau of Consular Affairs</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-management/bureau-of-diplomatic-security/">Bureau of Diplomatic Security</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-management/bureau-of-global-talent-management/">Bureau of Global Talent Management</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-management/bureau-of-information-resource-management/">Bureau of Information Resource Management</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-management/bureau-of-medical-services/">Bureau of Medical Services</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-management/bureau-of-the-comptroller-and-global-financial-services/">Bureau of the Comptroller and Global Financial Services</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-management/diplomatic-reception-rooms/">Director of Diplomatic Reception Rooms</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-management/foreign-service-institute/">Foreign Service Institute</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-management/office-of-emergencies-in-the-diplomatic-and-consular-service/">Office of Emergencies in the Diplomatic and Consular Service</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/ofm">Office of Foreign Missions</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-management/office-of-management-policy-rightsizing-and-innovation/">Office of Management Strategy and Solutions</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/bureau-of-overseas-buildings-operations/">Bureau of Overseas Buildings Operations</a></li>
+</ul></li><li class="has-children"><button type="button">Political Affairs</button><ul class="nav__bureaus-offices-internal is-hidden is-cloaked"><li class="nav__bureaus-offices-internal-item nav__bureaus-offices-internal-item--header"><button type="button">Political Affairs</button></li>
+<li class="nav__bureaus-offices-internal-item"><a tabindex="-1"  href="https://www.state.gov/bureaus-offices/under-secretary-for-political-affairs/">Under Secretary for Political Affairs</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-political-affairs/bureau-of-african-affairs/">Bureau of African Affairs</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-political-affairs/bureau-of-east-asian-and-pacific-affairs/">Bureau of East Asian and Pacific Affairs</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-political-affairs/bureau-of-european-and-eurasian-affairs/">Bureau of European and Eurasian Affairs</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-political-affairs/bureau-of-international-organization-affairs/">Bureau of International Organization Affairs</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-political-affairs/bureau-of-near-eastern-affairs/">Bureau of Near Eastern Affairs</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-political-affairs/bureau-of-south-and-central-asian-affairs/">Bureau of South and Central Asian Affairs</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-political-affairs/bureau-of-western-hemisphere-affairs/">Bureau of Western Hemisphere Affairs</a></li>
+</ul></li><li class="has-children"><button type="button">Public Diplomacy and Public Affairs</button><ul class="nav__bureaus-offices-internal is-hidden is-cloaked"><li class="nav__bureaus-offices-internal-item nav__bureaus-offices-internal-item--header"><button type="button">Public Diplomacy and Public Affairs</button></li>
+<li class="nav__bureaus-offices-internal-item"><a tabindex="-1"  href="https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/">Under Secretary for Public Diplomacy and Public Affairs</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/bureau-of-educational-and-cultural-affairs/">Educational and Cultural Affairs</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/expo-unit/">Expo Unit</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/global-engagement-center/">Global Engagement Center</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/bureau-of-global-public-affairs/">Global Public Affairs</a></li>
+
+<li class="nav__bureaus-offices-internal-item grandchild"><a href="https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/office-of-policy-planning-and-resources-r-ppr/">Policy, Planning, and Resources</a></li>
+</ul></li>
+					</ul>
+				</div>
+
+
+			</div>
+
+		</li>
+
+	</ul>
+
+	</li>
+</ul></nav><!-- #masthead -->
+
+	<div id="content" class="site-content js-backtotop">
+
+<main>
+
+	
+		
+		
+<article id="post-115638" class="post-115638 page type-page status-publish has-post-thumbnail hentry state_subjects-dipnote state_author_groups-dipnote-editors-authors">
+
+	<!-- Subnavigation -->
+
+	
+		<section class="module module--page-subnavigation page-subnavigation" data-component="pagesubnav">
+
+			<button class="page-subnavigation__menu-trigger js-trigger">DipNote Home</button>
+
+			<nav class="page-subnavigation__menu frame"><ul id="menu-dipnote-menu" class="menu"><li id="menu-item-115651" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-115638 current_page_item menu-item-115651"><a href="https://www.state.gov/blogs/" aria-current="page">DipNote Home</a></li>
+<li id="menu-item-115673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115673"><a href="https://www.state.gov/blogs/all-posts/">All Posts</a></li>
+<li id="menu-item-129577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129577"><a href="https://www.state.gov/dipnote-by-topic/">Browse by Topic</a></li>
+<li id="menu-item-129607" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129607"><a href="https://www.state.gov/dipnote-economic-prosperity-and-trade-policy/">Economic Prosperity</a></li>
+<li id="menu-item-129619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129619"><a href="https://www.state.gov/dipnote-education-and-culture/">Education &#038; Culture</a></li>
+<li id="menu-item-129904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129904"><a href="https://www.state.gov/dipnote-human-rights-and-democracy/">Human Rights</a></li>
+<li id="menu-item-129614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129614"><a href="https://www.state.gov/dipnote-military-and-security/">Security</a></li>
+<li id="menu-item-129812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129812"><a href="https://www.state.gov/dipnote-this-week-at-state/">This Week at State</a></li>
+</ul></nav>
+		</section>
+
+		
+	<!-- Hero -->
+
+	
+	
+	<section class="module featured-content page-header dipnote-header">
+
+
+		<div class="row">
+
+			<div class="dipnote-header__content">
+				<div class="dipnote-header__title-wrap">
+					<!-- Title -->
+
+					<h1 class="dipnote-header__title stars-above">DipNote</h1>
+					<!-- Subhead -->
+					<span class="state-header__breadcrumb">The Official Blog of the U.S. Department of State</span>
+
+				</div>
+				<!-- Button -->
+
+				<div class="page-header__actions">
+
+					
+
+	
+		<div class="dipnote-social-media" aria-label="Social Media" role="group">
+
+				<!-- Primary Social Media Networks -->
+
+				
+					
+													<a href="https://www.facebook.com/statedept" class="icon fab fa-facebook-f" target="_blank" aria-label="State Department on Facebook"><span class="screen-reader-text">Facebook</span></a>
+						
+					
+													<a href="https://twitter.com/StateDept" class="icon fab fa-twitter" target="_blank" aria-label="State Department on Twitter"><span class="screen-reader-text">Twitter</span></a>
+						
+					
+													<a href="https://www.youtube.com/user/statevideo" class="icon fab fa-youtube" target="_blank" aria-label="State Department on YouTube"><span class="screen-reader-text">YouTube</span></a>
+						
+					
+													<a href="https://www.instagram.com/statedept/" class="icon fab fa-instagram" target="_blank" aria-label="State Department on Instagram"><span class="screen-reader-text">Instagram</span></a>
+						
+					
+				
+				<!-- Secondary Social Media Networks -->
+
+				
+					
+						
+					
+						
+					
+				
+
+		</div>
+		<!-- // .front-page-social-media -->
+
+		
+					
+						<a href="https://service.govdelivery.com/accounts/USSTATEBPA/subscriber/new?topic_id=USSTATEBPA_196" class="button button--outline-white button--arrow button--inline-block" target="_blank">
+							<div class="button__content">
+								Subscribe								<span class="icon-svg">
+
+	<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 985 512" role="presentation">
+<defs>
+	<style>
+		.cls-1{fill:#c1a783}
+	</style>
+</defs>
+<path class="cls-1" d="M688.939 48.406l36.644-36.644 244.047 244.047-36.644 36.643-244.047-244.047z"></path>
+<path class="cls-1" d="M688.858 463.533l244.047-244.047 36.644 36.643-244.047 244.047-36.644-36.644z"></path>
+<path class="cls-1" d="M25.911 230.089h880.971v51.822h-880.971v-51.822z"></path>
+</svg>
+
+</span>
+							</div>
+						</a>
+
+					
+				</div>
+				<!-- // .page-header__actions -->
+
+			</div>
+			<!-- // .bureau-header__content -->
+
+		</div>
+		<!-- // .row -->
+
+		<!-- Top Stories -->
+		<div class="row dipnote-header__top-stories">
+
+			
+					<div class="dipnote-header__top-story">
+
+						<div class="dipnote-header__media">
+
+															<a href="https://www.state.gov/this-week-at-state-april-10-2020/">
+								<img width="1920" height="1080" src="https://www.state.gov/wp-content/uploads/2020/04/Sequence-01.00_00_03_18.Still002.jpg" class="attachment-full size-full" alt="Sequence 01.00 00 03 18.Still002" srcset="https://www.state.gov/wp-content/uploads/2020/04/Sequence-01.00_00_03_18.Still002.jpg 1920w, https://www.state.gov/wp-content/uploads/2020/04/Sequence-01.00_00_03_18.Still002-300x169.jpg 300w, https://www.state.gov/wp-content/uploads/2020/04/Sequence-01.00_00_03_18.Still002-1024x576.jpg 1024w, https://www.state.gov/wp-content/uploads/2020/04/Sequence-01.00_00_03_18.Still002-768x432.jpg 768w, https://www.state.gov/wp-content/uploads/2020/04/Sequence-01.00_00_03_18.Still002-1536x864.jpg 1536w, https://www.state.gov/wp-content/uploads/2020/04/Sequence-01.00_00_03_18.Still002-85x48.jpg 85w, https://www.state.gov/wp-content/uploads/2020/04/Sequence-01.00_00_03_18.Still002-1698x956.jpg 1698w, https://www.state.gov/wp-content/uploads/2020/04/Sequence-01.00_00_03_18.Still002-1642x924.jpg 1642w" sizes="(max-width: 1920px) 100vw, 1920px" />								</a>
+														</div>
+
+						<div class="dipnote-header__top-story-details">
+
+							<!-- Eyebrow: "Live" or date -->
+
+							
+									<span class="dipnote-header__eyebrow">April 10, 2020</span>
+
+								
+							
+							<h3 class="dipnote-header__top-story-headline"><a href="https://www.state.gov/this-week-at-state-april-10-2020/">This Week at State: April 10, 2020</a></h3>
+						</div>
+
+					</div>
+					<!-- // .dipnote-header__top-story -->
+				
+					<div class="dipnote-header__top-story">
+
+						<div class="dipnote-header__media">
+
+															<a href="https://www.state.gov/on-world-health-day/">
+								<img width="1200" height="675" src="https://www.state.gov/wp-content/uploads/2020/04/EVCdVJBXQAACDRZ.jpeg" class="attachment-full size-full" alt="EVCdVJBXQAACDRZ" srcset="https://www.state.gov/wp-content/uploads/2020/04/EVCdVJBXQAACDRZ.jpeg 1200w, https://www.state.gov/wp-content/uploads/2020/04/EVCdVJBXQAACDRZ-300x169.jpeg 300w, https://www.state.gov/wp-content/uploads/2020/04/EVCdVJBXQAACDRZ-1024x576.jpeg 1024w, https://www.state.gov/wp-content/uploads/2020/04/EVCdVJBXQAACDRZ-768x432.jpeg 768w, https://www.state.gov/wp-content/uploads/2020/04/EVCdVJBXQAACDRZ-85x48.jpeg 85w" sizes="(max-width: 1200px) 100vw, 1200px" />								</a>
+														</div>
+
+						<div class="dipnote-header__top-story-details">
+
+							<!-- Eyebrow: "Live" or date -->
+
+							
+									<span class="dipnote-header__eyebrow">April 7, 2020</span>
+
+								
+							
+							<h3 class="dipnote-header__top-story-headline"><a href="https://www.state.gov/on-world-health-day/">On World Health Day</a></h3>
+						</div>
+
+					</div>
+					<!-- // .dipnote-header__top-story -->
+				
+					<div class="dipnote-header__top-story">
+
+						<div class="dipnote-header__media">
+
+															<a href="https://www.state.gov/un-international-day-for-mine-awareness-and-assistance-in-mine-action-4/">
+								<img width="974" height="650" src="https://www.state.gov/wp-content/uploads/2020/03/Picture11.png" class="attachment-full size-full" alt="Personnel from @MAGsaveslives provide Mine Risk Education to children in Laos to help them recognize deadly unexploded ordnance. Photo courtesy of the Mines Advisory Group." srcset="https://www.state.gov/wp-content/uploads/2020/03/Picture11.png 974w, https://www.state.gov/wp-content/uploads/2020/03/Picture11-300x200.png 300w, https://www.state.gov/wp-content/uploads/2020/03/Picture11-768x513.png 768w, https://www.state.gov/wp-content/uploads/2020/03/Picture11-72x48.png 72w" sizes="(max-width: 974px) 100vw, 974px" />								</a>
+														</div>
+
+						<div class="dipnote-header__top-story-details">
+
+							<!-- Eyebrow: "Live" or date -->
+
+							
+									<span class="dipnote-header__eyebrow">April 4, 2020</span>
+
+								
+							
+							<h3 class="dipnote-header__top-story-headline"><a href="https://www.state.gov/un-international-day-for-mine-awareness-and-assistance-in-mine-action-4/">UN International Day for Mine Awareness and Assistance in Mine Action</a></h3>
+						</div>
+
+					</div>
+					<!-- // .dipnote-header__top-story -->
+				
+				
+			
+			</div>
+			<!-- // Top Stories -->
+			<div class="page-header__actions page-header__actions--mobile">
+
+				
+					<a href="https://service.govdelivery.com/accounts/USSTATEBPA/subscriber/new?topic_id=USSTATEBPA_196" class="button button--outline-white button--arrow button--inline-block" target="_blank">
+						<div class="button__content">
+							Subscribe							<span class="icon-svg">
+
+	<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 985 512" role="presentation">
+<defs>
+	<style>
+		.cls-1{fill:#c1a783}
+	</style>
+</defs>
+<path class="cls-1" d="M688.939 48.406l36.644-36.644 244.047 244.047-36.644 36.643-244.047-244.047z"></path>
+<path class="cls-1" d="M688.858 463.533l244.047-244.047 36.644 36.643-244.047 244.047-36.644-36.644z"></path>
+<path class="cls-1" d="M25.911 230.089h880.971v51.822h-880.971v-51.822z"></path>
+</svg>
+
+</span>
+						</div>
+					</a>
+
+				
+				
+
+	
+		<div class="dipnote-social-media" aria-label="Social Media" role="group">
+
+				<!-- Primary Social Media Networks -->
+
+				
+					
+													<a href="https://www.facebook.com/statedept" class="icon fab fa-facebook-f" target="_blank" aria-label="State Department on Facebook"><span class="screen-reader-text">Facebook</span></a>
+						
+					
+													<a href="https://twitter.com/StateDept" class="icon fab fa-twitter" target="_blank" aria-label="State Department on Twitter"><span class="screen-reader-text">Twitter</span></a>
+						
+					
+													<a href="https://www.youtube.com/user/statevideo" class="icon fab fa-youtube" target="_blank" aria-label="State Department on YouTube"><span class="screen-reader-text">YouTube</span></a>
+						
+					
+													<a href="https://www.instagram.com/statedept/" class="icon fab fa-instagram" target="_blank" aria-label="State Department on Instagram"><span class="screen-reader-text">Instagram</span></a>
+						
+					
+				
+				<!-- Secondary Social Media Networks -->
+
+				
+					
+						
+					
+						
+					
+				
+
+		</div>
+		<!-- // .front-page-social-media -->
+
+		
+			</div>
+			<!-- // .page-header__actions -->
+
+	</section>
+	<!-- // .dipnote-header -->
+
+	
+
+	<div class="wavy-bg dipnotes">
+
+		<section class="module dipnote-featured-topics">
+
+			<div class="dipnote-social-button-container">
+
+				
+
+<div class="addthis dipnote" data-ctx="mobile-collapse" data-component="addthis" data-content="ra-5b5a073fce27c9d1">
+	<div class="addthis__inline">
+	<button class="addthis__inline-trigger js-addthis-open icon icon-social-share">Share</button>
+	<div class="addthis__inline-modal">
+		<div class="addthis__inline-content">
+			<p class="addthis__inline-message">Share this page on:</p>
+			<div class="addthis_inline_share_toolbox"></div>
+		</div>
+		<button class="icon icon-close-thin addthis__inline-close js-addthis-close" tabindex="0">
+			<span class="screen-reader-text">Close</span>
+		</button>
+	</div>
+</div>
+
+</div>
+
+
+
+
+				<!-- Featured Topics -->
+
+				
+<div class="dipnote-content">
+
+		
+				
+				<div class="dipnote-feature-container">
+
+					
+					<h2 class="stars-above">Global Health</h2>
+
+				
+					<div class="dipnote-features">
+
+					
+						<div class="dipnote-feature">
+
+							<a class="dipnote-feature-image" href="https://www.state.gov/the-repatriation-of-us-citizens/"><img width="640" height="360" src="https://www.state.gov/wp-content/uploads/2020/04/3_18_S_Quote_TW-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://www.state.gov/wp-content/uploads/2020/04/3_18_S_Quote_TW-1024x576.jpg 1024w, https://www.state.gov/wp-content/uploads/2020/04/3_18_S_Quote_TW-300x169.jpg 300w, https://www.state.gov/wp-content/uploads/2020/04/3_18_S_Quote_TW-768x432.jpg 768w, https://www.state.gov/wp-content/uploads/2020/04/3_18_S_Quote_TW-85x48.jpg 85w, https://www.state.gov/wp-content/uploads/2020/04/3_18_S_Quote_TW.jpg 1200w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+
+															<div class="eyebrow other-news__eyebrow">April 7, 2020</div>
+							
+															<h3><a href="https://www.state.gov/the-repatriation-of-us-citizens/">The Repatriation of U.S. Citizens</a></h3>
+							
+						</div>
+
+						
+						<div class="dipnote-feature">
+
+							<a class="dipnote-feature-image" href="https://www.state.gov/on-world-health-day/"><img width="640" height="360" src="https://www.state.gov/wp-content/uploads/2020/04/EVCdVJBXQAACDRZ-1024x576.jpeg" class="attachment-large size-large wp-post-image" alt="" srcset="https://www.state.gov/wp-content/uploads/2020/04/EVCdVJBXQAACDRZ-1024x576.jpeg 1024w, https://www.state.gov/wp-content/uploads/2020/04/EVCdVJBXQAACDRZ-300x169.jpeg 300w, https://www.state.gov/wp-content/uploads/2020/04/EVCdVJBXQAACDRZ-768x432.jpeg 768w, https://www.state.gov/wp-content/uploads/2020/04/EVCdVJBXQAACDRZ-85x48.jpeg 85w, https://www.state.gov/wp-content/uploads/2020/04/EVCdVJBXQAACDRZ.jpeg 1200w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+
+															<div class="eyebrow other-news__eyebrow">April 7, 2020</div>
+							
+															<h3><a href="https://www.state.gov/on-world-health-day/">On World Health Day</a></h3>
+							
+						</div>
+
+						
+						<div class="dipnote-feature">
+
+							<a class="dipnote-feature-image" href="https://www.state.gov/the-time-is-now-for-equality-and-inclusion/"><img width="640" height="427" src="https://www.state.gov/wp-content/uploads/2020/03/HandsUp4DREAMS_USAIDKenya-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="A group of young women supported by the PEPFAR-led DREAMS Partnership in Kenya. (Photo Credit: USAID Kenya)" srcset="https://www.state.gov/wp-content/uploads/2020/03/HandsUp4DREAMS_USAIDKenya-1024x683.jpg 1024w, https://www.state.gov/wp-content/uploads/2020/03/HandsUp4DREAMS_USAIDKenya-300x200.jpg 300w, https://www.state.gov/wp-content/uploads/2020/03/HandsUp4DREAMS_USAIDKenya-768x512.jpg 768w, https://www.state.gov/wp-content/uploads/2020/03/HandsUp4DREAMS_USAIDKenya-1536x1024.jpg 1536w, https://www.state.gov/wp-content/uploads/2020/03/HandsUp4DREAMS_USAIDKenya-72x48.jpg 72w, https://www.state.gov/wp-content/uploads/2020/03/HandsUp4DREAMS_USAIDKenya.jpg 2048w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+
+															<div class="eyebrow other-news__eyebrow">March 6, 2020</div>
+							
+															<h3><a href="https://www.state.gov/the-time-is-now-for-equality-and-inclusion/">The Time is Now for Equality and Inclusion</a></h3>
+							
+						</div>
+
+											</div>
+
+					<!-- Display 'Browse All' link if collection page is selected. -->
+											<a class="dipnote-browse-all" href="https://www.state.gov/dipnote-global-health/">Browse All</a>
+					
+				</div>
+					
+				
+				<div class="dipnote-feature-container">
+
+					
+					<h2 class="stars-above">Human Rights and Democracy</h2>
+
+				
+					<div class="dipnote-features">
+
+					
+						<div class="dipnote-feature">
+
+							<a class="dipnote-feature-image" href="https://www.state.gov/on-the-road-to-inclusion/"><img width="588" height="330" src="https://www.state.gov/wp-content/uploads/2020/02/Main-Road-to-Inclusion-Photo.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://www.state.gov/wp-content/uploads/2020/02/Main-Road-to-Inclusion-Photo.jpg 588w, https://www.state.gov/wp-content/uploads/2020/02/Main-Road-to-Inclusion-Photo-300x168.jpg 300w, https://www.state.gov/wp-content/uploads/2020/02/Main-Road-to-Inclusion-Photo-86x48.jpg 86w" sizes="(max-width: 588px) 100vw, 588px" /></a>
+
+															<div class="eyebrow other-news__eyebrow">January 8, 2020</div>
+							
+															<h3><a href="https://www.state.gov/on-the-road-to-inclusion/">On the Road to Inclusion</a></h3>
+							
+						</div>
+
+						
+						<div class="dipnote-feature">
+
+							<a class="dipnote-feature-image" href="https://www.state.gov/a-global-call-to-protect-religious-freedom/"><img width="640" height="360" src="https://www.state.gov/wp-content/uploads/2020/02/48783232128_42e9487954_k_1.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://www.state.gov/wp-content/uploads/2020/02/48783232128_42e9487954_k_1.jpg 787w, https://www.state.gov/wp-content/uploads/2020/02/48783232128_42e9487954_k_1-300x169.jpg 300w, https://www.state.gov/wp-content/uploads/2020/02/48783232128_42e9487954_k_1-768x432.jpg 768w, https://www.state.gov/wp-content/uploads/2020/02/48783232128_42e9487954_k_1-85x48.jpg 85w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+
+															<div class="eyebrow other-news__eyebrow">September 23, 2019</div>
+							
+															<h3><a href="https://www.state.gov/a-global-call-to-protect-religious-freedom/">A Global Call to Protect Religious Freedom</a></h3>
+							
+						</div>
+
+						
+						<div class="dipnote-feature">
+
+							<a class="dipnote-feature-image" href="https://www.state.gov/u-s-advocacy-for-persons-with-disabilities-remains-strong-around-the-world/"><img width="640" height="360" src="https://www.state.gov/wp-content/uploads/2020/01/UNSC-2475-Persons-with-Disabilities-in-Armed-Conflict.png" class="attachment-large size-large wp-post-image" alt="The UN Security Council Votes Unanimously to Adopt UNSC 2475 on June 20, 2019" srcset="https://www.state.gov/wp-content/uploads/2020/01/UNSC-2475-Persons-with-Disabilities-in-Armed-Conflict.png 787w, https://www.state.gov/wp-content/uploads/2020/01/UNSC-2475-Persons-with-Disabilities-in-Armed-Conflict-300x169.png 300w, https://www.state.gov/wp-content/uploads/2020/01/UNSC-2475-Persons-with-Disabilities-in-Armed-Conflict-768x432.png 768w, https://www.state.gov/wp-content/uploads/2020/01/UNSC-2475-Persons-with-Disabilities-in-Armed-Conflict-85x48.png 85w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+
+															<div class="eyebrow other-news__eyebrow">July 26, 2019</div>
+							
+															<h3><a href="https://www.state.gov/u-s-advocacy-for-persons-with-disabilities-remains-strong-around-the-world/">U.S. Advocacy for Persons with Disabilities Remains Strong Around the World</a></h3>
+							
+						</div>
+
+											</div>
+
+					<!-- Display 'Browse All' link if collection page is selected. -->
+											<a class="dipnote-browse-all" href="https://www.state.gov/dipnote-human-rights-and-democracy/">Browse All</a>
+					
+				</div>
+					
+	</div>
+
+
+
+
+				<!-- Recent Stories -->
+
+				
+<div class="dipnote-content recent-stories">
+
+	<div class="dipnote-recent-container">
+
+		<div  class="dipnote-recent-stories">
+
+			<h2 class="stars-above">Recent Stories</h2>
+
+			<ul>
+
+			
+				<li>
+											<a class="dipnote-recent-image" href="https://www.state.gov/this-week-at-state-april-10-2020/"><img width="1920" height="1080" src="https://www.state.gov/wp-content/uploads/2020/04/Sequence-01.00_00_03_18.Still002.jpg" class="attachment-small size-small wp-post-image" alt="" srcset="https://www.state.gov/wp-content/uploads/2020/04/Sequence-01.00_00_03_18.Still002.jpg 1920w, https://www.state.gov/wp-content/uploads/2020/04/Sequence-01.00_00_03_18.Still002-300x169.jpg 300w, https://www.state.gov/wp-content/uploads/2020/04/Sequence-01.00_00_03_18.Still002-1024x576.jpg 1024w, https://www.state.gov/wp-content/uploads/2020/04/Sequence-01.00_00_03_18.Still002-768x432.jpg 768w, https://www.state.gov/wp-content/uploads/2020/04/Sequence-01.00_00_03_18.Still002-1536x864.jpg 1536w, https://www.state.gov/wp-content/uploads/2020/04/Sequence-01.00_00_03_18.Still002-85x48.jpg 85w, https://www.state.gov/wp-content/uploads/2020/04/Sequence-01.00_00_03_18.Still002-1698x956.jpg 1698w, https://www.state.gov/wp-content/uploads/2020/04/Sequence-01.00_00_03_18.Still002-1642x924.jpg 1642w" sizes="(max-width: 1920px) 100vw, 1920px" /></a>
+					
+					<div class="dipnote-recent-copy">
+
+						<div class="news-bar__post-date">April 10, 2020</div>
+
+						
+
+															<div class="eyebrow other-news__eyebrow">April 10, 2020</div>
+							
+
+														<h3><a href="https://www.state.gov/this-week-at-state-april-10-2020/">This Week at State: April 10, 2020</a></h3>
+													<p>Did you miss key foreign policy developments this week? We’ve got you covered. Each week, DipNote recaps the latest U.S. Departm...</p>
+					</div>
+					
+				</li>
+
+
+
+						
+				<li>
+											<a class="dipnote-recent-image" href="https://www.state.gov/the-repatriation-of-us-citizens/"><img width="1200" height="675" src="https://www.state.gov/wp-content/uploads/2020/04/3_18_S_Quote_TW.jpg" class="attachment-small size-small wp-post-image" alt="" srcset="https://www.state.gov/wp-content/uploads/2020/04/3_18_S_Quote_TW.jpg 1200w, https://www.state.gov/wp-content/uploads/2020/04/3_18_S_Quote_TW-300x169.jpg 300w, https://www.state.gov/wp-content/uploads/2020/04/3_18_S_Quote_TW-1024x576.jpg 1024w, https://www.state.gov/wp-content/uploads/2020/04/3_18_S_Quote_TW-768x432.jpg 768w, https://www.state.gov/wp-content/uploads/2020/04/3_18_S_Quote_TW-85x48.jpg 85w" sizes="(max-width: 1200px) 100vw, 1200px" /></a>
+					
+					<div class="dipnote-recent-copy">
+
+						<div class="news-bar__post-date">April 7, 2020</div>
+
+						
+
+															<div class="eyebrow other-news__eyebrow">April 7, 2020</div>
+							
+
+														<h3><a href="https://www.state.gov/the-repatriation-of-us-citizens/">The Repatriation of U.S. Citizens</a></h3>
+													<p>The U.S. Department of State is rising to meet the historic challenge posed by the COVID-19 pandemic, every day, all over the worl...</p>
+					</div>
+					
+				</li>
+
+
+
+						
+				<li>
+											<a class="dipnote-recent-image" href="https://www.state.gov/on-world-health-day/"><img width="1200" height="675" src="https://www.state.gov/wp-content/uploads/2020/04/EVCdVJBXQAACDRZ.jpeg" class="attachment-small size-small wp-post-image" alt="" srcset="https://www.state.gov/wp-content/uploads/2020/04/EVCdVJBXQAACDRZ.jpeg 1200w, https://www.state.gov/wp-content/uploads/2020/04/EVCdVJBXQAACDRZ-300x169.jpeg 300w, https://www.state.gov/wp-content/uploads/2020/04/EVCdVJBXQAACDRZ-1024x576.jpeg 1024w, https://www.state.gov/wp-content/uploads/2020/04/EVCdVJBXQAACDRZ-768x432.jpeg 768w, https://www.state.gov/wp-content/uploads/2020/04/EVCdVJBXQAACDRZ-85x48.jpeg 85w" sizes="(max-width: 1200px) 100vw, 1200px" /></a>
+					
+					<div class="dipnote-recent-copy">
+
+						<div class="news-bar__post-date">April 7, 2020</div>
+
+						
+
+															<div class="eyebrow other-news__eyebrow">April 7, 2020</div>
+							
+
+														<h3><a href="https://www.state.gov/on-world-health-day/">On World Health Day</a></h3>
+													<p>On April 7, we recognize World Health Day. Since 1950, the celebration of this day has aimed to create awareness of a specific he...</p>
+					</div>
+					
+				</li>
+
+
+
+						
+				<li>
+											<a class="dipnote-recent-image" href="https://www.state.gov/un-international-day-for-mine-awareness-and-assistance-in-mine-action-4/"><img width="974" height="650" src="https://www.state.gov/wp-content/uploads/2020/03/Picture11.png" class="attachment-small size-small wp-post-image" alt="Personnel from @MAGsaveslives provide Mine Risk Education to children in Laos to help them recognize deadly unexploded ordnance. Photo courtesy of the Mines Advisory Group." srcset="https://www.state.gov/wp-content/uploads/2020/03/Picture11.png 974w, https://www.state.gov/wp-content/uploads/2020/03/Picture11-300x200.png 300w, https://www.state.gov/wp-content/uploads/2020/03/Picture11-768x513.png 768w, https://www.state.gov/wp-content/uploads/2020/03/Picture11-72x48.png 72w" sizes="(max-width: 974px) 100vw, 974px" /></a>
+					
+					<div class="dipnote-recent-copy">
+
+						<div class="news-bar__post-date">April 4, 2020</div>
+
+						
+
+															<div class="eyebrow other-news__eyebrow">April 4, 2020</div>
+							
+
+														<h3><a href="https://www.state.gov/un-international-day-for-mine-awareness-and-assistance-in-mine-action-4/">UN International Day for Mine Awareness and Assistance in Mine Action</a></h3>
+													<p>Today is the United Nations&#8217; International Day for Mine Awareness and Assistance in Mine Action, which provides an opportuni...</p>
+					</div>
+					
+				</li>
+
+
+
+						
+				<li>
+											<a class="dipnote-recent-image" href="https://www.state.gov/this-week-at-state-april-3-2020/"><img width="1920" height="1080" src="https://www.state.gov/wp-content/uploads/2020/04/200403-TW@S-v34-new-title.jpg" class="attachment-small size-small wp-post-image" alt="" srcset="https://www.state.gov/wp-content/uploads/2020/04/200403-TW@S-v34-new-title.jpg 1920w, https://www.state.gov/wp-content/uploads/2020/04/200403-TW@S-v34-new-title-300x169.jpg 300w, https://www.state.gov/wp-content/uploads/2020/04/200403-TW@S-v34-new-title-1024x576.jpg 1024w, https://www.state.gov/wp-content/uploads/2020/04/200403-TW@S-v34-new-title-768x432.jpg 768w, https://www.state.gov/wp-content/uploads/2020/04/200403-TW@S-v34-new-title-1536x864.jpg 1536w, https://www.state.gov/wp-content/uploads/2020/04/200403-TW@S-v34-new-title-85x48.jpg 85w, https://www.state.gov/wp-content/uploads/2020/04/200403-TW@S-v34-new-title-1698x956.jpg 1698w, https://www.state.gov/wp-content/uploads/2020/04/200403-TW@S-v34-new-title-1642x924.jpg 1642w" sizes="(max-width: 1920px) 100vw, 1920px" /></a>
+					
+					<div class="dipnote-recent-copy">
+
+						<div class="news-bar__post-date">April 3, 2020</div>
+
+						
+
+															<div class="eyebrow other-news__eyebrow">April 3, 2020</div>
+							
+
+														<h3><a href="https://www.state.gov/this-week-at-state-april-3-2020/">This Week at State: April 3, 2020</a></h3>
+													<p>Did you miss key foreign policy developments this week? We’ve got you covered. Each week, DipNote recaps the latest U.S. Departm...</p>
+					</div>
+					
+				</li>
+
+
+
+						
+				<li>
+											<a class="dipnote-recent-image" href="https://www.state.gov/humanitys-best-friend-detects-landmines-and-explosive-remnants-of-war/"><img width="974" height="547" src="https://www.state.gov/wp-content/uploads/2020/03/Picture8.png" class="attachment-small size-small wp-post-image" alt="A MDD and handler working together to clear UXO in Cambodia. The canine was funded by Norwegian People&#039;s Aid, a State Department partner that has been working to actively clear UXO in Cambodia since 1992. (Photo courtesy of Norwegian People&#039;s Aid)" srcset="https://www.state.gov/wp-content/uploads/2020/03/Picture8.png 974w, https://www.state.gov/wp-content/uploads/2020/03/Picture8-300x168.png 300w, https://www.state.gov/wp-content/uploads/2020/03/Picture8-768x431.png 768w, https://www.state.gov/wp-content/uploads/2020/03/Picture8-85x48.png 85w" sizes="(max-width: 974px) 100vw, 974px" /></a>
+					
+					<div class="dipnote-recent-copy">
+
+						<div class="news-bar__post-date">April 3, 2020</div>
+
+						
+
+															<div class="eyebrow other-news__eyebrow">April 3, 2020</div>
+							
+
+														<h3><a href="https://www.state.gov/humanitys-best-friend-detects-landmines-and-explosive-remnants-of-war/">Humanity&#8217;s Best Friend Detects Landmines and Explosive Remnants of War</a></h3>
+													<p>Service dogs are renowned for excelling at tasks. Some serve as “seeing eye” dogs. Others sniff for illicit drugs. Some are tr...</p>
+					</div>
+					
+				</li>
+
+
+
+						
+				<li>
+											<a class="dipnote-recent-image" href="https://www.state.gov/my-life-as-a-sports-envoy/"><img width="1021" height="576" src="https://www.state.gov/wp-content/uploads/2020/04/Header-Photo-2-e1585759552438.jpg" class="attachment-small size-small wp-post-image" alt="Dr. Andrea Woodson-Smith poses for a photo with a group of students in China." srcset="https://www.state.gov/wp-content/uploads/2020/04/Header-Photo-2-e1585759552438.jpg 1021w, https://www.state.gov/wp-content/uploads/2020/04/Header-Photo-2-e1585759552438-300x169.jpg 300w, https://www.state.gov/wp-content/uploads/2020/04/Header-Photo-2-e1585759552438-768x433.jpg 768w, https://www.state.gov/wp-content/uploads/2020/04/Header-Photo-2-e1585759552438-85x48.jpg 85w" sizes="(max-width: 1021px) 100vw, 1021px" /></a>
+					
+					<div class="dipnote-recent-copy">
+
+						<div class="news-bar__post-date">April 2, 2020</div>
+
+						
+
+															<div class="eyebrow other-news__eyebrow">April 2, 2020</div>
+							
+
+														<h3><a href="https://www.state.gov/my-life-as-a-sports-envoy/">My Life As A Sports Envoy</a></h3>
+													<p>Hi,  my name is Dr. Andrea Woodson-Smith and I was one of the first Sports Envoys with a disability to represent the United St...</p>
+					</div>
+					
+				</li>
+
+
+
+									<a class="dipnote-browse-all" href="/blogs/all-posts/">Browse All</a>
+
+			</ul>
+
+		</div>
+
+		<div class="dipnote-social-container">
+
+			
+<div class="dipnote-social-media">
+
+
+	
+		<section class="module module--dipnote-social-media dipnote-social-media" aria-label="Social Media" role="group">
+
+			<h1 class="social-media__label">FOLLOW @STATEDEPT</h1>
+
+			<!-- Primary Social Media Networks -->
+
+			
+				
+					
+					<a href="https://www.facebook.com/statedept" class="icon fab fa-facebook-f" target="_blank" aria-label="State Department on Facebook"><span class="screen-reader-text">Facebook</span></a>
+
+				
+					
+					<a href="https://twitter.com/StateDept" class="icon fab fa-twitter" target="_blank" aria-label="State Department on Twitter"><span class="screen-reader-text">Twitter</span></a>
+
+				
+					
+					<a href="https://www.youtube.com/user/statevideo" class="icon fab fa-youtube" target="_blank" aria-label="State Department on YouTube"><span class="screen-reader-text">YouTube</span></a>
+
+				
+					
+					<a href="https://www.instagram.com/statedept/" class="icon fab fa-instagram" target="_blank" aria-label="State Department on Instagram"><span class="screen-reader-text">Instagram</span></a>
+
+				
+			
+			<!-- Secondary Social Media Networks -->
+
+			
+				
+					
+					
+						<a href="https://www.flickr.com/photos/statephotos/" class="icon fab fa-flickr" target="_blank" aria-label="State Department on Flickr"><span class="screen-reader-text">Flickr</span></a>
+					
+				
+					
+					
+				
+			
+
+
+
+
+		</section>
+		<!-- // .dipnote-social-media -->
+
+		
+
+<aside id="secondary" class="widget-area">
+	<section id="custom-twitter-feeds-widget-2" class="widget widget_custom-twitter-feeds-widget"><!-- Custom Twitter Feeds by Smash Balloon --><div id="ctf" class="ctf ctf-type-usertimeline  ctf-styles" style="width: 100%;" data-ctfshortcode="{}" data-ctfintents="1" data-ctfneeded="0"><div class="ctf-header" style=""><a href="https://twitter.com/StateDept" target="_blank" title="@StateDept" class="ctf-header-link"><div class="ctf-header-text"><p class="ctf-header-user" style="color: #000000;"><span class="ctf-header-name">Department of State</span><span class="ctf-verified"><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" aria-label="verified" data-fa-processed="" data-prefix="fa" data-icon="check-circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z"></path></svg></span><span class="ctf-header-follow"><svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" aria-label="twitter logo" data-fa-processed="" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>Follow</span></p><p class="ctf-header-bio" style="color: #000000;">Welcome to the U.S. Department of State Twitter account. Follow @SecPompeo for more from the Secretary. For COVID-19 travel questions: https://t.co/pQi8vtuKZa.</p></div><div class="ctf-header-img"><div class="ctf-header-img-hover"><svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" aria-label="twitter logo" data-fa-processed="" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg></div><img src="https://pbs.twimg.com/profile_images/1188878370722975751/YCRGbHPV_normal.jpg" alt="Department of State" width="48" height="48"></div></a></div><div class="ctf-tweets"><div class="ctf-item ctf-author-statedept ctf-new ctf-retweet" id="1250556882491715584" style=""><div class="ctf-context"><a href="https://twitter.com/intent/user?screen_name=StateDept" target="_blank" class="ctf-retweet-icon"><svg class="svg-inline--fa fa-retweet fa-w-20" aria-hidden="true" aria-label="retweet" data-fa-processed="" data-prefix="fa" data-icon="retweet" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M629.657 343.598L528.971 444.284c-9.373 9.372-24.568 9.372-33.941 0L394.343 343.598c-9.373-9.373-9.373-24.569 0-33.941l10.823-10.823c9.562-9.562 25.133-9.34 34.419.492L480 342.118V160H292.451a24.005 24.005 0 0 1-16.971-7.029l-16-16C244.361 121.851 255.069 96 276.451 96H520c13.255 0 24 10.745 24 24v222.118l40.416-42.792c9.285-9.831 24.856-10.054 34.419-.492l10.823 10.823c9.372 9.372 9.372 24.569-.001 33.941zm-265.138 15.431A23.999 23.999 0 0 0 347.548 352H160V169.881l40.416 42.792c9.286 9.831 24.856 10.054 34.419.491l10.822-10.822c9.373-9.373 9.373-24.569 0-33.941L144.971 67.716c-9.373-9.373-24.569-9.373-33.941 0L10.343 168.402c-9.373 9.373-9.373 24.569 0 33.941l10.822 10.822c9.562 9.562 25.133 9.34 34.419-.491L96 169.881V392c0 13.255 10.745 24 24 24h243.549c21.382 0 32.09-25.851 16.971-40.971l-16.001-16z"></path></svg><span class="ctf-screenreader">Retweet on Twitter</span></a><a href="https://twitter.com/StateDept" target="_blank" class="ctf-retweet-text" style="">Department of State Retweeted</a></div><div class="ctf-author-box"><div class="ctf-author-box-link" style=""><a href="https://twitter.com/SecPompeo" class="ctf-author-avatar" target="_blank" style=""><img src="https://pbs.twimg.com/profile_images/1014454396522934273/w_96hmja_normal.jpg" alt="SecPompeo" width="48" height="48"></a><a href="https://twitter.com/SecPompeo" target="_blank" class="ctf-author-name" style="">Secretary Pompeo</a><span class="ctf-verified" ><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" aria-label="verified" data-fa-processed="" data-prefix="fa" data-icon="check-circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z"></path></svg></span><a href="https://twitter.com/SecPompeo" class="ctf-author-screenname" target="_blank" style="">@SecPompeo</a><span class="ctf-screename-sep">&middot;</span><div class="ctf-tweet-meta"><a href="https://twitter.com/SecPompeo/status/1250532344714473476" class="ctf-tweet-date" target="_blank" style="">3h</a></div></div></div><div class="ctf-tweet-content"><p class="ctf-tweet-text" style="">Productive call with Foreign Minister @winstonpeters to thank #NewZealand for helping U.S. citizens return home during this challenging time. U.S.-New Zealand cooperation will continue to be critically important as we respond to #COVID19 in the Indo-Pacific and beyond.</div><div class="ctf-tweet-actions"><a href="https://twitter.com/intent/tweet?in_reply_to=1250532344714473476&related=SecPompeo" class="ctf-reply" target="_blank" style=""><svg class="svg-inline--fa fa-reply fa-w-16" aria-hidden="true" aria-label="reply" data-fa-processed="" data-prefix="fa" data-icon="reply" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg><span class="ctf-screenreader">Reply on Twitter 1250532344714473476</span></a><a href="https://twitter.com/intent/retweet?tweet_id=1250532344714473476&related=SecPompeo" class="ctf-retweet" target="_blank" style=""><svg class="svg-inline--fa fa-retweet fa-w-20" aria-hidden="true" aria-label="retweet" data-fa-processed="" data-prefix="fa" data-icon="retweet" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M629.657 343.598L528.971 444.284c-9.373 9.372-24.568 9.372-33.941 0L394.343 343.598c-9.373-9.373-9.373-24.569 0-33.941l10.823-10.823c9.562-9.562 25.133-9.34 34.419.492L480 342.118V160H292.451a24.005 24.005 0 0 1-16.971-7.029l-16-16C244.361 121.851 255.069 96 276.451 96H520c13.255 0 24 10.745 24 24v222.118l40.416-42.792c9.285-9.831 24.856-10.054 34.419-.492l10.823 10.823c9.372 9.372 9.372 24.569-.001 33.941zm-265.138 15.431A23.999 23.999 0 0 0 347.548 352H160V169.881l40.416 42.792c9.286 9.831 24.856 10.054 34.419.491l10.822-10.822c9.373-9.373 9.373-24.569 0-33.941L144.971 67.716c-9.373-9.373-24.569-9.373-33.941 0L10.343 168.402c-9.373 9.373-9.373 24.569 0 33.941l10.822 10.822c9.562 9.562 25.133 9.34 34.419-.491L96 169.881V392c0 13.255 10.745 24 24 24h243.549c21.382 0 32.09-25.851 16.971-40.971l-16.001-16z"></path></svg><span class="ctf-screenreader">Retweet on Twitter 1250532344714473476</span><span class="ctf-action-count ctf-retweet-count">309</span></a><a href="https://twitter.com/intent/like?tweet_id=1250532344714473476&related=SecPompeo" class="ctf-like" target="_blank" style=""><svg class="svg-inline--fa fa-heart fa-w-18" aria-hidden="true" aria-label="like" data-fa-processed="" data-prefix="fa" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M414.9 24C361.8 24 312 65.7 288 89.3 264 65.7 214.2 24 161.1 24 70.3 24 16 76.9 16 165.5c0 72.6 66.8 133.3 69.2 135.4l187 180.8c8.8 8.5 22.8 8.5 31.6 0l186.7-180.2c2.7-2.7 69.5-63.5 69.5-136C560 76.9 505.7 24 414.9 24z"></path></svg><span class="ctf-screenreader">Like on Twitter 1250532344714473476</span><span class="ctf-action-count ctf-favorite-count">1332</span></a><a href="https://twitter.com/SecPompeo/status/1250532344714473476" class="ctf-twitterlink" style="" target="_blank">Twitter <span class="ctf-screenreader">1250532344714473476</span></a></div></div><div class="ctf-item ctf-author-statedept ctf-new" id="1250551464428265474" style=""><div class="ctf-author-box"><div class="ctf-author-box-link" style=""><a href="https://twitter.com/StateDept" class="ctf-author-avatar" target="_blank" style=""><img src="https://pbs.twimg.com/profile_images/1188878370722975751/YCRGbHPV_normal.jpg" alt="StateDept" width="48" height="48"></a><a href="https://twitter.com/StateDept" target="_blank" class="ctf-author-name" style="">Department of State</a><span class="ctf-verified" ><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" aria-label="verified" data-fa-processed="" data-prefix="fa" data-icon="check-circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z"></path></svg></span><a href="https://twitter.com/StateDept" class="ctf-author-screenname" target="_blank" style="">@StateDept</a><span class="ctf-screename-sep">&middot;</span><div class="ctf-tweet-meta"><a href="https://twitter.com/StateDept/status/1250551464428265474" class="ctf-tweet-date" target="_blank" style="">1h</a></div></div></div><div class="ctf-tweet-content"><p class="ctf-tweet-text" style="">Ambassador Birx delivers remarks to the media on #COVID19. </p><a href="https://twitter.com/StateDept/status/1250551464428265474" target="_blank" class="ctf-tweet-text-media-wrap"><svg aria-hidden="true" aria-label="video in tweet" focusable="false" data-prefix="far" data-icon="file-video" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" class="svg-inline--fa fa-file-video fa-w-12 fa-9x ctf-tweet-text-media"><path fill="currentColor" d="M369.941 97.941l-83.882-83.882A48 48 0 0 0 252.118 0H48C21.49 0 0 21.49 0 48v416c0 26.51 21.49 48 48 48h288c26.51 0 48-21.49 48-48V131.882a48 48 0 0 0-14.059-33.941zM332.118 128H256V51.882L332.118 128zM48 464V48h160v104c0 13.255 10.745 24 24 24h104v288H48zm228.687-211.303L224 305.374V268c0-11.046-8.954-20-20-20H100c-11.046 0-20 8.954-20 20v104c0 11.046 8.954 20 20 20h104c11.046 0 20-8.954 20-20v-37.374l52.687 52.674C286.704 397.318 304 390.28 304 375.986V264.011c0-14.311-17.309-21.319-27.313-11.314z" class=""></path></svg></a></div><div class="ctf-tweet-actions"><a href="https://twitter.com/intent/tweet?in_reply_to=1250551464428265474&related=StateDept" class="ctf-reply" target="_blank" style=""><svg class="svg-inline--fa fa-reply fa-w-16" aria-hidden="true" aria-label="reply" data-fa-processed="" data-prefix="fa" data-icon="reply" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg><span class="ctf-screenreader">Reply on Twitter 1250551464428265474</span></a><a href="https://twitter.com/intent/retweet?tweet_id=1250551464428265474&related=StateDept" class="ctf-retweet" target="_blank" style=""><svg class="svg-inline--fa fa-retweet fa-w-20" aria-hidden="true" aria-label="retweet" data-fa-processed="" data-prefix="fa" data-icon="retweet" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M629.657 343.598L528.971 444.284c-9.373 9.372-24.568 9.372-33.941 0L394.343 343.598c-9.373-9.373-9.373-24.569 0-33.941l10.823-10.823c9.562-9.562 25.133-9.34 34.419.492L480 342.118V160H292.451a24.005 24.005 0 0 1-16.971-7.029l-16-16C244.361 121.851 255.069 96 276.451 96H520c13.255 0 24 10.745 24 24v222.118l40.416-42.792c9.285-9.831 24.856-10.054 34.419-.492l10.823 10.823c9.372 9.372 9.372 24.569-.001 33.941zm-265.138 15.431A23.999 23.999 0 0 0 347.548 352H160V169.881l40.416 42.792c9.286 9.831 24.856 10.054 34.419.491l10.822-10.822c9.373-9.373 9.373-24.569 0-33.941L144.971 67.716c-9.373-9.373-24.569-9.373-33.941 0L10.343 168.402c-9.373 9.373-9.373 24.569 0 33.941l10.822 10.822c9.562 9.562 25.133 9.34 34.419-.491L96 169.881V392c0 13.255 10.745 24 24 24h243.549c21.382 0 32.09-25.851 16.971-40.971l-16.001-16z"></path></svg><span class="ctf-screenreader">Retweet on Twitter 1250551464428265474</span><span class="ctf-action-count ctf-retweet-count">64</span></a><a href="https://twitter.com/intent/like?tweet_id=1250551464428265474&related=StateDept" class="ctf-like" target="_blank" style=""><svg class="svg-inline--fa fa-heart fa-w-18" aria-hidden="true" aria-label="like" data-fa-processed="" data-prefix="fa" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M414.9 24C361.8 24 312 65.7 288 89.3 264 65.7 214.2 24 161.1 24 70.3 24 16 76.9 16 165.5c0 72.6 66.8 133.3 69.2 135.4l187 180.8c8.8 8.5 22.8 8.5 31.6 0l186.7-180.2c2.7-2.7 69.5-63.5 69.5-136C560 76.9 505.7 24 414.9 24z"></path></svg><span class="ctf-screenreader">Like on Twitter 1250551464428265474</span><span class="ctf-action-count ctf-favorite-count">182</span></a><a href="https://twitter.com/StateDept/status/1250551464428265474" class="ctf-twitterlink" style="" target="_blank">Twitter <span class="ctf-screenreader">1250551464428265474</span></a></div></div><div class="ctf-item ctf-author-statedept ctf-new" id="1250541804619010048" style=""><div class="ctf-author-box"><div class="ctf-author-box-link" style=""><a href="https://twitter.com/StateDept" class="ctf-author-avatar" target="_blank" style=""><img src="https://pbs.twimg.com/profile_images/1188878370722975751/YCRGbHPV_normal.jpg" alt="StateDept" width="48" height="48"></a><a href="https://twitter.com/StateDept" target="_blank" class="ctf-author-name" style="">Department of State</a><span class="ctf-verified" ><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" aria-label="verified" data-fa-processed="" data-prefix="fa" data-icon="check-circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z"></path></svg></span><a href="https://twitter.com/StateDept" class="ctf-author-screenname" target="_blank" style="">@StateDept</a><span class="ctf-screename-sep">&middot;</span><div class="ctf-tweet-meta"><a href="https://twitter.com/StateDept/status/1250541804619010048" class="ctf-tweet-date" target="_blank" style="">2h</a></div></div></div><div class="ctf-tweet-content"><p class="ctf-tweet-text" style="">Live now! Watch members of the Coronavirus Task Force hold a press briefing. https://twitter.com/i/broadcasts/1mrGmQngakLGy</div><div class="ctf-tweet-actions"><a href="https://twitter.com/intent/tweet?in_reply_to=1250541804619010048&related=StateDept" class="ctf-reply" target="_blank" style=""><svg class="svg-inline--fa fa-reply fa-w-16" aria-hidden="true" aria-label="reply" data-fa-processed="" data-prefix="fa" data-icon="reply" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg><span class="ctf-screenreader">Reply on Twitter 1250541804619010048</span></a><a href="https://twitter.com/intent/retweet?tweet_id=1250541804619010048&related=StateDept" class="ctf-retweet" target="_blank" style=""><svg class="svg-inline--fa fa-retweet fa-w-20" aria-hidden="true" aria-label="retweet" data-fa-processed="" data-prefix="fa" data-icon="retweet" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M629.657 343.598L528.971 444.284c-9.373 9.372-24.568 9.372-33.941 0L394.343 343.598c-9.373-9.373-9.373-24.569 0-33.941l10.823-10.823c9.562-9.562 25.133-9.34 34.419.492L480 342.118V160H292.451a24.005 24.005 0 0 1-16.971-7.029l-16-16C244.361 121.851 255.069 96 276.451 96H520c13.255 0 24 10.745 24 24v222.118l40.416-42.792c9.285-9.831 24.856-10.054 34.419-.492l10.823 10.823c9.372 9.372 9.372 24.569-.001 33.941zm-265.138 15.431A23.999 23.999 0 0 0 347.548 352H160V169.881l40.416 42.792c9.286 9.831 24.856 10.054 34.419.491l10.822-10.822c9.373-9.373 9.373-24.569 0-33.941L144.971 67.716c-9.373-9.373-24.569-9.373-33.941 0L10.343 168.402c-9.373 9.373-9.373 24.569 0 33.941l10.822 10.822c9.562 9.562 25.133 9.34 34.419-.491L96 169.881V392c0 13.255 10.745 24 24 24h243.549c21.382 0 32.09-25.851 16.971-40.971l-16.001-16z"></path></svg><span class="ctf-screenreader">Retweet on Twitter 1250541804619010048</span><span class="ctf-action-count ctf-retweet-count">139</span></a><a href="https://twitter.com/intent/like?tweet_id=1250541804619010048&related=StateDept" class="ctf-like" target="_blank" style=""><svg class="svg-inline--fa fa-heart fa-w-18" aria-hidden="true" aria-label="like" data-fa-processed="" data-prefix="fa" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M414.9 24C361.8 24 312 65.7 288 89.3 264 65.7 214.2 24 161.1 24 70.3 24 16 76.9 16 165.5c0 72.6 66.8 133.3 69.2 135.4l187 180.8c8.8 8.5 22.8 8.5 31.6 0l186.7-180.2c2.7-2.7 69.5-63.5 69.5-136C560 76.9 505.7 24 414.9 24z"></path></svg><span class="ctf-screenreader">Like on Twitter 1250541804619010048</span><span class="ctf-action-count ctf-favorite-count">306</span></a><a href="https://twitter.com/StateDept/status/1250541804619010048" class="ctf-twitterlink" style="" target="_blank">Twitter <span class="ctf-screenreader">1250541804619010048</span></a></div></div><div class="ctf-item ctf-author-statedept ctf-new" id="1250528318958514177" style=""><div class="ctf-author-box"><div class="ctf-author-box-link" style=""><a href="https://twitter.com/StateDept" class="ctf-author-avatar" target="_blank" style=""><img src="https://pbs.twimg.com/profile_images/1188878370722975751/YCRGbHPV_normal.jpg" alt="StateDept" width="48" height="48"></a><a href="https://twitter.com/StateDept" target="_blank" class="ctf-author-name" style="">Department of State</a><span class="ctf-verified" ><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" aria-label="verified" data-fa-processed="" data-prefix="fa" data-icon="check-circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z"></path></svg></span><a href="https://twitter.com/StateDept" class="ctf-author-screenname" target="_blank" style="">@StateDept</a><span class="ctf-screename-sep">&middot;</span><div class="ctf-tweet-meta"><a href="https://twitter.com/StateDept/status/1250528318958514177" class="ctf-tweet-date" target="_blank" style="">3h</a></div></div></div><div class="ctf-tweet-content"><p class="ctf-tweet-text" style="">Starting soon! Members of the Coronavirus Task Force will hold a press briefing. Watch live here on Twitter, http://facebook.com/statedept, http://state.gov, http://WH.gov/live, or https://youtu.be/rUsk865_zSA.</div><div class="ctf-tweet-actions"><a href="https://twitter.com/intent/tweet?in_reply_to=1250528318958514177&related=StateDept" class="ctf-reply" target="_blank" style=""><svg class="svg-inline--fa fa-reply fa-w-16" aria-hidden="true" aria-label="reply" data-fa-processed="" data-prefix="fa" data-icon="reply" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg><span class="ctf-screenreader">Reply on Twitter 1250528318958514177</span></a><a href="https://twitter.com/intent/retweet?tweet_id=1250528318958514177&related=StateDept" class="ctf-retweet" target="_blank" style=""><svg class="svg-inline--fa fa-retweet fa-w-20" aria-hidden="true" aria-label="retweet" data-fa-processed="" data-prefix="fa" data-icon="retweet" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M629.657 343.598L528.971 444.284c-9.373 9.372-24.568 9.372-33.941 0L394.343 343.598c-9.373-9.373-9.373-24.569 0-33.941l10.823-10.823c9.562-9.562 25.133-9.34 34.419.492L480 342.118V160H292.451a24.005 24.005 0 0 1-16.971-7.029l-16-16C244.361 121.851 255.069 96 276.451 96H520c13.255 0 24 10.745 24 24v222.118l40.416-42.792c9.285-9.831 24.856-10.054 34.419-.492l10.823 10.823c9.372 9.372 9.372 24.569-.001 33.941zm-265.138 15.431A23.999 23.999 0 0 0 347.548 352H160V169.881l40.416 42.792c9.286 9.831 24.856 10.054 34.419.491l10.822-10.822c9.373-9.373 9.373-24.569 0-33.941L144.971 67.716c-9.373-9.373-24.569-9.373-33.941 0L10.343 168.402c-9.373 9.373-9.373 24.569 0 33.941l10.822 10.822c9.562 9.562 25.133 9.34 34.419-.491L96 169.881V392c0 13.255 10.745 24 24 24h243.549c21.382 0 32.09-25.851 16.971-40.971l-16.001-16z"></path></svg><span class="ctf-screenreader">Retweet on Twitter 1250528318958514177</span><span class="ctf-action-count ctf-retweet-count">51</span></a><a href="https://twitter.com/intent/like?tweet_id=1250528318958514177&related=StateDept" class="ctf-like" target="_blank" style=""><svg class="svg-inline--fa fa-heart fa-w-18" aria-hidden="true" aria-label="like" data-fa-processed="" data-prefix="fa" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M414.9 24C361.8 24 312 65.7 288 89.3 264 65.7 214.2 24 161.1 24 70.3 24 16 76.9 16 165.5c0 72.6 66.8 133.3 69.2 135.4l187 180.8c8.8 8.5 22.8 8.5 31.6 0l186.7-180.2c2.7-2.7 69.5-63.5 69.5-136C560 76.9 505.7 24 414.9 24z"></path></svg><span class="ctf-screenreader">Like on Twitter 1250528318958514177</span><span class="ctf-action-count ctf-favorite-count">158</span></a><a href="https://twitter.com/StateDept/status/1250528318958514177" class="ctf-twitterlink" style="" target="_blank">Twitter <span class="ctf-screenreader">1250528318958514177</span></a></div></div><div class="ctf-item ctf-author-statedept ctf-new ctf-retweet" id="1250473875944734723" style=""><div class="ctf-context"><a href="https://twitter.com/intent/user?screen_name=StateDept" target="_blank" class="ctf-retweet-icon"><svg class="svg-inline--fa fa-retweet fa-w-20" aria-hidden="true" aria-label="retweet" data-fa-processed="" data-prefix="fa" data-icon="retweet" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M629.657 343.598L528.971 444.284c-9.373 9.372-24.568 9.372-33.941 0L394.343 343.598c-9.373-9.373-9.373-24.569 0-33.941l10.823-10.823c9.562-9.562 25.133-9.34 34.419.492L480 342.118V160H292.451a24.005 24.005 0 0 1-16.971-7.029l-16-16C244.361 121.851 255.069 96 276.451 96H520c13.255 0 24 10.745 24 24v222.118l40.416-42.792c9.285-9.831 24.856-10.054 34.419-.492l10.823 10.823c9.372 9.372 9.372 24.569-.001 33.941zm-265.138 15.431A23.999 23.999 0 0 0 347.548 352H160V169.881l40.416 42.792c9.286 9.831 24.856 10.054 34.419.491l10.822-10.822c9.373-9.373 9.373-24.569 0-33.941L144.971 67.716c-9.373-9.373-24.569-9.373-33.941 0L10.343 168.402c-9.373 9.373-9.373 24.569 0 33.941l10.822 10.822c9.562 9.562 25.133 9.34 34.419-.491L96 169.881V392c0 13.255 10.745 24 24 24h243.549c21.382 0 32.09-25.851 16.971-40.971l-16.001-16z"></path></svg><span class="ctf-screenreader">Retweet on Twitter</span></a><a href="https://twitter.com/StateDept" target="_blank" class="ctf-retweet-text" style="">Department of State Retweeted</a></div><div class="ctf-author-box"><div class="ctf-author-box-link" style=""><a href="https://twitter.com/SecPompeo" class="ctf-author-avatar" target="_blank" style=""><img src="https://pbs.twimg.com/profile_images/1014454396522934273/w_96hmja_normal.jpg" alt="SecPompeo" width="48" height="48"></a><a href="https://twitter.com/SecPompeo" target="_blank" class="ctf-author-name" style="">Secretary Pompeo</a><span class="ctf-verified" ><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" aria-label="verified" data-fa-processed="" data-prefix="fa" data-icon="check-circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z"></path></svg></span><a href="https://twitter.com/SecPompeo" class="ctf-author-screenname" target="_blank" style="">@SecPompeo</a><span class="ctf-screename-sep">&middot;</span><div class="ctf-tweet-meta"><a href="https://twitter.com/SecPompeo/status/1250471566716084225" class="ctf-tweet-date" target="_blank" style="">7h</a></div></div></div><div class="ctf-tweet-content"><p class="ctf-tweet-text" style="">Spoke with Director Yang Jiechi about U.S.-China aid and international cooperation on #COVID19. I stressed the importance of full transparency and information sharing in this fight. We'll continue to work together to defeat this pandemic and restore global health and prosperity.</div><div class="ctf-tweet-actions"><a href="https://twitter.com/intent/tweet?in_reply_to=1250471566716084225&related=SecPompeo" class="ctf-reply" target="_blank" style=""><svg class="svg-inline--fa fa-reply fa-w-16" aria-hidden="true" aria-label="reply" data-fa-processed="" data-prefix="fa" data-icon="reply" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg><span class="ctf-screenreader">Reply on Twitter 1250471566716084225</span></a><a href="https://twitter.com/intent/retweet?tweet_id=1250471566716084225&related=SecPompeo" class="ctf-retweet" target="_blank" style=""><svg class="svg-inline--fa fa-retweet fa-w-20" aria-hidden="true" aria-label="retweet" data-fa-processed="" data-prefix="fa" data-icon="retweet" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M629.657 343.598L528.971 444.284c-9.373 9.372-24.568 9.372-33.941 0L394.343 343.598c-9.373-9.373-9.373-24.569 0-33.941l10.823-10.823c9.562-9.562 25.133-9.34 34.419.492L480 342.118V160H292.451a24.005 24.005 0 0 1-16.971-7.029l-16-16C244.361 121.851 255.069 96 276.451 96H520c13.255 0 24 10.745 24 24v222.118l40.416-42.792c9.285-9.831 24.856-10.054 34.419-.492l10.823 10.823c9.372 9.372 9.372 24.569-.001 33.941zm-265.138 15.431A23.999 23.999 0 0 0 347.548 352H160V169.881l40.416 42.792c9.286 9.831 24.856 10.054 34.419.491l10.822-10.822c9.373-9.373 9.373-24.569 0-33.941L144.971 67.716c-9.373-9.373-24.569-9.373-33.941 0L10.343 168.402c-9.373 9.373-9.373 24.569 0 33.941l10.822 10.822c9.562 9.562 25.133 9.34 34.419-.491L96 169.881V392c0 13.255 10.745 24 24 24h243.549c21.382 0 32.09-25.851 16.971-40.971l-16.001-16z"></path></svg><span class="ctf-screenreader">Retweet on Twitter 1250471566716084225</span><span class="ctf-action-count ctf-retweet-count">1005</span></a><a href="https://twitter.com/intent/like?tweet_id=1250471566716084225&related=SecPompeo" class="ctf-like" target="_blank" style=""><svg class="svg-inline--fa fa-heart fa-w-18" aria-hidden="true" aria-label="like" data-fa-processed="" data-prefix="fa" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M414.9 24C361.8 24 312 65.7 288 89.3 264 65.7 214.2 24 161.1 24 70.3 24 16 76.9 16 165.5c0 72.6 66.8 133.3 69.2 135.4l187 180.8c8.8 8.5 22.8 8.5 31.6 0l186.7-180.2c2.7-2.7 69.5-63.5 69.5-136C560 76.9 505.7 24 414.9 24z"></path></svg><span class="ctf-screenreader">Like on Twitter 1250471566716084225</span><span class="ctf-action-count ctf-favorite-count">3781</span></a><a href="https://twitter.com/SecPompeo/status/1250471566716084225" class="ctf-twitterlink" style="" target="_blank">Twitter <span class="ctf-screenreader">1250471566716084225</span></a></div></div></div><a href="javascript:void(0);" id="ctf-more" class="ctf-more" style="background-color: #edf2f5;color: #1da1f2;"><span>Load More...</span></a></div></section><section id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget">
+<div id="sb_instagram" class="sbi sbi_col_3  sbi_width_resp" style="width: 100%;" data-feedid="sbi_17841400844020608#12" data-res="auto" data-cols="3" data-num="12" data-shortcode-atts="{}" >
+	<div class="sb_instagram_header  sbi_no_avatar" style=" margin-bottom: 10px;padding-bottom: 0;">
+    <a href="https://www.instagram.com/statedept/" target="_blank" rel="noopener noreferrer" title="@statedept" class="sbi_header_link">
+        <div class="sbi_header_text sbi_no_bio">
+            <h3 style="color: rgb(0,0,0);">statedept</h3>
+	                </div>
+                <div class="sbi_header_img">
+            <div class="sbi_header_hashtag_icon"><svg class="sbi_new_logo fa-instagram fa-w-14" aria-hidden="true" data-fa-processed="" aria-label="Instagram" data-prefix="fab" data-icon="instagram" role="img" viewBox="0 0 448 512">
+	                <path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path>
+	            </svg></div>
+        </div>
+        
+    </a>
+</div>
+    <div id="sbi_images" >
+		<div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_17916539602409496" data-date="1586956225">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B_AK_dDnjPl/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/93895116_169485114227913_2343958365105395359_n.jpg?_nc_cat=109&#038;_nc_sid=8ae9d6&#038;_nc_ohc=jAW-DDoU6p0AX_2gtC_&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=b4caad0195a0e5f7b2b8a1189f3354bf&#038;oe=5EBE237D" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/93895116_169485114227913_2343958365105395359_n.jpg?_nc_cat=109&amp;_nc_sid=8ae9d6&amp;_nc_ohc=jAW-DDoU6p0AX_2gtC_&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=b4caad0195a0e5f7b2b8a1189f3354bf&amp;oe=5EBE237D&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B_AK_dDnjPl\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B_AK_dDnjPl\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/www.instagram.com\/p\/B_AK_dDnjPl\/media?size=l&quot;}">
+            <span class="sbi-screenreader">Ambassador Kay Bailey Hutchison, the U.S. Ambassad</span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="https://www.state.gov/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Ambassador Kay Bailey Hutchison, the U.S. Ambassador to NATO, discusses how the United States and our NATO Allies are working together to respond to #COVID19.">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17847198611048708" data-date="1586895826">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B--X0ryg3-C/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/93239867_306257597008707_2943812909845647609_n.jpg?_nc_cat=101&#038;_nc_sid=8ae9d6&#038;_nc_ohc=-d9TmFhMvXEAX9RO1Sg&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=88dfd71506ca92538a31453cc8ba05cc&#038;oe=5EBBBAC3" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/93239867_306257597008707_2943812909845647609_n.jpg?_nc_cat=101&amp;_nc_sid=8ae9d6&amp;_nc_ohc=-d9TmFhMvXEAX9RO1Sg&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=88dfd71506ca92538a31453cc8ba05cc&amp;oe=5EBBBAC3&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B--X0ryg3-C\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B--X0ryg3-C\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/93239867_306257597008707_2943812909845647609_n.jpg?_nc_cat=101&amp;_nc_sid=8ae9d6&amp;_nc_ohc=-d9TmFhMvXEAX9RO1Sg&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=88dfd71506ca92538a31453cc8ba05cc&amp;oe=5EBBBAC3&quot;}">
+            <span class="sbi-screenreader">The U.S. Government has no higher priority than th</span>
+            	                    <img src="https://www.state.gov/wp-content/plugins/instagram-feed/img/placeholder.png" alt="The U.S. Government has no higher priority than the protection of American citizens. To date, the State Department has brought 60,000+ #AmericansHome from 100+ countries.">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17868816031707431" data-date="1586692845">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B-4Uqx2FAUd/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/92638988_513019009395094_6029034176199566282_n.jpg?_nc_cat=107&#038;_nc_sid=8ae9d6&#038;_nc_ohc=sBHKY9k384kAX9-4-8N&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=f974bf590a04a6a57061a8ff90823c88&#038;oe=5EBF222C" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/92638988_513019009395094_6029034176199566282_n.jpg?_nc_cat=107&amp;_nc_sid=8ae9d6&amp;_nc_ohc=sBHKY9k384kAX9-4-8N&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=f974bf590a04a6a57061a8ff90823c88&amp;oe=5EBF222C&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B-4Uqx2FAUd\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B-4Uqx2FAUd\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/92638988_513019009395094_6029034176199566282_n.jpg?_nc_cat=107&amp;_nc_sid=8ae9d6&amp;_nc_ohc=sBHKY9k384kAX9-4-8N&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=f974bf590a04a6a57061a8ff90823c88&amp;oe=5EBF222C&quot;}">
+            <span class="sbi-screenreader">Happy #Easter! In this season of new beginnings, m</span>
+            	                    <img src="https://www.state.gov/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Happy #Easter! In this season of new beginnings, may you find a renewal of warmth, hope, and health.">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17854402732916313" data-date="1586467833">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B-xnfanj2wG/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/92760643_3020436208017341_4926271098092395591_n.jpg?_nc_cat=101&#038;_nc_sid=8ae9d6&#038;_nc_ohc=dltmSDhs_lEAX_20owL&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=97320efb5a772d4bd769917d01e21bd1&#038;oe=5EBBF10A" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/92760643_3020436208017341_4926271098092395591_n.jpg?_nc_cat=101&amp;_nc_sid=8ae9d6&amp;_nc_ohc=dltmSDhs_lEAX_20owL&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=97320efb5a772d4bd769917d01e21bd1&amp;oe=5EBBF10A&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B-xnfanj2wG\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B-xnfanj2wG\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/92760643_3020436208017341_4926271098092395591_n.jpg?_nc_cat=101&amp;_nc_sid=8ae9d6&amp;_nc_ohc=dltmSDhs_lEAX_20owL&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=97320efb5a772d4bd769917d01e21bd1&amp;oe=5EBBF10A&quot;}">
+            <span class="sbi-screenreader">@SecPompeo on #COVID19 assistance to Iran: We want</span>
+            	                    <img src="https://www.state.gov/wp-content/plugins/instagram-feed/img/placeholder.png" alt="@SecPompeo on #COVID19 assistance to Iran: We wanted to bring technical assistance and all the things that America can bring to help save Iranian lives. We want good things for the Iranian people, but this is no reason to try and infuse cash to the Iranian regime. #Iran">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18110256922112173" data-date="1586459171">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B-xW-FMBAay/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/93007537_156379825835627_5041696289804638539_n.jpg?_nc_cat=102&#038;_nc_sid=8ae9d6&#038;_nc_ohc=RZQaPdIcSxkAX_9p0jP&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=61d11bca875112976ca37deb056c7289&#038;oe=5EBB43E8" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/93007537_156379825835627_5041696289804638539_n.jpg?_nc_cat=102&amp;_nc_sid=8ae9d6&amp;_nc_ohc=RZQaPdIcSxkAX_9p0jP&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=61d11bca875112976ca37deb056c7289&amp;oe=5EBB43E8&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B-xW-FMBAay\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B-xW-FMBAay\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/93007537_156379825835627_5041696289804638539_n.jpg?_nc_cat=102&amp;_nc_sid=8ae9d6&amp;_nc_ohc=RZQaPdIcSxkAX_9p0jP&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=61d11bca875112976ca37deb056c7289&amp;oe=5EBB43E8&quot;}">
+            <span class="sbi-screenreader">The #COVID19 pandemic is a global challenge, and t</span>
+            	                    <img src="https://www.state.gov/wp-content/plugins/instagram-feed/img/placeholder.png" alt="The #COVID19 pandemic is a global challenge, and the State Department is working hard to bring #AmericansHome safely. As efforts continue, U.S. citizen travelers should enroll at step.state.gov and take advantage of flights home as soon as possible.">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_17869458862682972" data-date="1586445358">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B-w8nF0lwCc/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/93124194_159511861995058_4389448028090515616_n.jpg?_nc_cat=110&#038;_nc_sid=8ae9d6&#038;_nc_ohc=ImlGHs9ZxAgAX80a2Xc&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=48ddf6268aa9133ed964d3962100228c&#038;oe=5EBB8758" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/93124194_159511861995058_4389448028090515616_n.jpg?_nc_cat=110&amp;_nc_sid=8ae9d6&amp;_nc_ohc=ImlGHs9ZxAgAX80a2Xc&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=48ddf6268aa9133ed964d3962100228c&amp;oe=5EBB8758&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B-w8nF0lwCc\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B-w8nF0lwCc\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/www.instagram.com\/p\/B-w8nF0lwCc\/media?size=l&quot;}">
+            <span class="sbi-screenreader">The State Department lauds religious unity and coo</span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="https://www.state.gov/wp-content/plugins/instagram-feed/img/placeholder.png" alt="The State Department lauds religious unity and cooperation in the face of the #COVID19 Pandemic. Our nations are strongest when united in respect for #religiousfreedom and all unalienable rights.">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_17869898836674428" data-date="1586376019">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B-u4WKphlLJ/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/92858992_943200782767048_7569578276570712077_n.jpg?_nc_cat=102&#038;_nc_sid=8ae9d6&#038;_nc_ohc=1f7XBXbhu5YAX85MJEY&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=76147ab01ac888a806201d5b60e9b980&#038;oe=5EBC05D1" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/92858992_943200782767048_7569578276570712077_n.jpg?_nc_cat=102&amp;_nc_sid=8ae9d6&amp;_nc_ohc=1f7XBXbhu5YAX85MJEY&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=76147ab01ac888a806201d5b60e9b980&amp;oe=5EBC05D1&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B-u4WKphlLJ\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B-u4WKphlLJ\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/www.instagram.com\/p\/B-u4WKphlLJ\/media?size=l&quot;}">
+            <span class="sbi-screenreader">Secretary Pompeo: We’ve provided more than $569 </span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="https://www.state.gov/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Secretary Pompeo: We’ve provided more than $569 million since the outbreak began to fight #Ebola in the DRC and the neighboring countries. Thanks to our efforts, I’m pleased to announce today that on April 12th the DRC is expected to declare this outbreak is officially over.">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_17954329591320728" data-date="1586372968">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B-uyhu8h08i/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/92404683_125486222405636_3116604155793153358_n.jpg?_nc_cat=108&#038;_nc_sid=8ae9d6&#038;_nc_ohc=Sn2atQHX4MQAX8j3dCl&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=df24ab8aef3303bca5d40ebf5f90f8b3&#038;oe=5EBD3D79" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/92404683_125486222405636_3116604155793153358_n.jpg?_nc_cat=108&amp;_nc_sid=8ae9d6&amp;_nc_ohc=Sn2atQHX4MQAX8j3dCl&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=df24ab8aef3303bca5d40ebf5f90f8b3&amp;oe=5EBD3D79&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B-uyhu8h08i\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B-uyhu8h08i\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/www.instagram.com\/p\/B-uyhu8h08i\/media?size=l&quot;}">
+            <span class="sbi-screenreader">Secretary Pompeo on #COVID19: Our focus will be on</span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="https://www.state.gov/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Secretary Pompeo on #COVID19: Our focus will be on keeping critical medical items in the United States until demand is met here. But the United States continues to provide high-quality, transparent, and meaningful assistance to our partners all across the globe.">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_17915403316410025" data-date="1586371519">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B-uvw77FyyB/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/92729169_108693223967383_6334907749757431015_n.jpg?_nc_cat=109&#038;_nc_sid=8ae9d6&#038;_nc_ohc=iaAue0zwisoAX_W_Wub&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=3ffe8d4b056bcc5aa454d6304574620e&#038;oe=5EBDBA8C" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/92729169_108693223967383_6334907749757431015_n.jpg?_nc_cat=109&amp;_nc_sid=8ae9d6&amp;_nc_ohc=iaAue0zwisoAX_W_Wub&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=3ffe8d4b056bcc5aa454d6304574620e&amp;oe=5EBDBA8C&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B-uvw77FyyB\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B-uvw77FyyB\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/www.instagram.com\/p\/B-uvw77FyyB\/media?size=l&quot;}">
+            <span class="sbi-screenreader">Secretary Pompeo: The State Department’s 24/7, w</span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="https://www.state.gov/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Secretary Pompeo: The State Department’s 24/7, worldwide efforts to bring #AmericansHome from around the globe is one of the most remarkable diplomatic missions in American history.">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17932253359368284" data-date="1586349784">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B-uGU2CDO9C/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/92000757_3162712923738844_5599193929739277597_n.jpg?_nc_cat=104&#038;_nc_sid=8ae9d6&#038;_nc_ohc=XpJQICUUU6UAX8gB_Ao&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=6f8e0c53df135ed0e28277f00afe765d&#038;oe=5EBDF7DE" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/92000757_3162712923738844_5599193929739277597_n.jpg?_nc_cat=104&amp;_nc_sid=8ae9d6&amp;_nc_ohc=XpJQICUUU6UAX8gB_Ao&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=6f8e0c53df135ed0e28277f00afe765d&amp;oe=5EBDF7DE&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B-uGU2CDO9C\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B-uGU2CDO9C\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/92000757_3162712923738844_5599193929739277597_n.jpg?_nc_cat=104&amp;_nc_sid=8ae9d6&amp;_nc_ohc=XpJQICUUU6UAX8gB_Ao&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=6f8e0c53df135ed0e28277f00afe765d&amp;oe=5EBDF7DE&quot;}">
+            <span class="sbi-screenreader">Wishing everyone a happy and healthy Passover! In </span>
+            	                    <img src="https://www.state.gov/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Wishing everyone a happy and healthy Passover! In Jewish tradition, Matzah, a flat unleavened bread eaten during the #Passover holiday, is known as both the bread of faith and the bread of healing. May faith and actions bring comfort and healing for all.">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18103236553141955" data-date="1586305186">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B-sxRIVgkF_/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/92680120_168666040927920_8215535056789790741_n.jpg?_nc_cat=107&#038;_nc_sid=8ae9d6&#038;_nc_ohc=QBnTJFOhdZUAX_CsBWu&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=37e2984e56a96ac6806a6d49804d3e14&#038;oe=5EBBBDC2" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/92680120_168666040927920_8215535056789790741_n.jpg?_nc_cat=107&amp;_nc_sid=8ae9d6&amp;_nc_ohc=QBnTJFOhdZUAX_CsBWu&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=37e2984e56a96ac6806a6d49804d3e14&amp;oe=5EBBBDC2&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B-sxRIVgkF_\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B-sxRIVgkF_\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/92680120_168666040927920_8215535056789790741_n.jpg?_nc_cat=107&amp;_nc_sid=8ae9d6&amp;_nc_ohc=QBnTJFOhdZUAX_CsBWu&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=37e2984e56a96ac6806a6d49804d3e14&amp;oe=5EBBBDC2&quot;}">
+            <span class="sbi-screenreader">Today we join with Rwandan families around the wor</span>
+            	                    <img src="https://www.state.gov/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Today we join with Rwandan families around the world who mourn during #Kwibuka26. The world must never forget genocide. The United States supports #Rwanda as it continues to make remarkable gains in its recovery and rebirth.">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18048767332233513" data-date="1586301326">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/B-sp58DAiew/" target="_blank" rel="noopener noreferrer" data-full-res="https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/92823592_251139009270249_2895303682822558006_n.jpg?_nc_cat=110&#038;_nc_sid=8ae9d6&#038;_nc_ohc=6D0M-KKJUFoAX-Tnm9H&#038;_nc_ht=scontent-iad3-1.xx&#038;oh=bd22cc3f8e6652dd1800420542f618b9&#038;oe=5EBB3CF6" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/92823592_251139009270249_2895303682822558006_n.jpg?_nc_cat=110&amp;_nc_sid=8ae9d6&amp;_nc_ohc=6D0M-KKJUFoAX-Tnm9H&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=bd22cc3f8e6652dd1800420542f618b9&amp;oe=5EBB3CF6&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/B-sp58DAiew\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/B-sp58DAiew\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t51.2885-15\/92823592_251139009270249_2895303682822558006_n.jpg?_nc_cat=110&amp;_nc_sid=8ae9d6&amp;_nc_ohc=6D0M-KKJUFoAX-Tnm9H&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=bd22cc3f8e6652dd1800420542f618b9&amp;oe=5EBB3CF6&quot;}">
+            <span class="sbi-screenreader">On #WorldHealthDay, the Department extends its tha</span>
+            	                    <img src="https://www.state.gov/wp-content/plugins/instagram-feed/img/placeholder.png" alt="On #WorldHealthDay, the Department extends its thanks to nurses and all health workers around the world. They are on the forefront to help respond to #COVID19 cases, putting their own health at risk to protect others and their communities">
+        </a>
+    </div>
+</div>    </div>
+
+	<div id="sbi_load">
+
+	        <a class="sbi_load_btn" href="javascript:void(0);" >
+            <span class="sbi_btn_text">Load More...</span>
+            <span class="sbi_loader sbi_hidden" style="background-color: rgb(255, 255, 255);"></span>
+        </a>
+	
+	    <span class="sbi_follow_btn">
+        <a href="https://www.instagram.com/statedept/" target="_blank" rel="noopener noreferrer"><svg class="svg-inline--fa fa-instagram fa-w-14" aria-hidden="true" data-fa-processed="" aria-label="Instagram" data-prefix="fab" data-icon="instagram" role="img" viewBox="0 0 448 512">
+	                <path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path>
+	            </svg>Follow on Instagram</a>
+    </span>
+	
+</div>
+	    <span class="sbi_resized_image_data" data-feed-id="sbi_17841400844020608#12" data-resized="{&quot;18048767332233513&quot;:{&quot;id&quot;:&quot;92823592_251139009270249_2895303682822558006_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;18103236553141955&quot;:{&quot;id&quot;:&quot;92680120_168666040927920_8215535056789790741_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17932253359368284&quot;:{&quot;id&quot;:&quot;92000757_3162712923738844_5599193929739277597_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17954329591320728&quot;:{&quot;id&quot;:&quot;92404683_125486222405636_3116604155793153358_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17915403316410025&quot;:{&quot;id&quot;:&quot;92729169_108693223967383_6334907749757431015_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17869898836674428&quot;:{&quot;id&quot;:&quot;92858992_943200782767048_7569578276570712077_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17869458862682972&quot;:{&quot;id&quot;:&quot;93124194_159511861995058_4389448028090515616_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;18110256922112173&quot;:{&quot;id&quot;:&quot;93007537_156379825835627_5041696289804638539_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17854402732916313&quot;:{&quot;id&quot;:&quot;92760643_3020436208017341_4926271098092395591_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17868816031707431&quot;:{&quot;id&quot;:&quot;92638988_513019009395094_6029034176199566282_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17847198611048708&quot;:{&quot;id&quot;:&quot;93239867_306257597008707_2943812909845647609_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17916539602409496&quot;:{&quot;id&quot;:&quot;93895116_169485114227913_2343958365105395359_n&quot;,&quot;ratio&quot;:&quot;1.03&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}}}">
+	</span>
+	</div>
+
+</div></section></aside><!-- #secondary -->
+
+<div class="state_cti_stats">
+<i class="icon fab fa-twitter"></i> 64,536 <i class="icon fas fa-user"></i> 5,772,022	<script>
+	jQuery('.ctf-header-bio').prepend(jQuery('.state_cti_stats'));
+	</script>
+	
+</div>
+
+</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+
+
+
+
+
+
+			</div>
+
+		</section>
+
+	</div>
+
+</article>
+<!-- #post-115638 -->
+
+	
+</main>
+
+
+	</div>
+	<!-- #content -->
+
+	<footer class="site-footer footer">
+		<div class="footer__content frame">
+			<div class="footer__primary-wrapper">
+				<div class="footer__logo">
+					<a class="footer__logo-image" title="United States Department of State" href="https://www.state.gov"></a>
+				</div>
+				<div class="footer__primary">
+					<div class="menu-footer-primary-navigation-container"><ul id="menu-footer-primary-navigation" class="menu"><li id="menu-item-15994" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15994"><a href="https://www.whitehouse.gov/">White House</a></li>
+<li id="menu-item-15995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15995"><a href="https://www.usa.gov/">USA.gov</a></li>
+<li id="menu-item-15996" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15996"><a href="https://www.stateoig.gov/">Office of the Inspector General</a></li>
+<li id="menu-item-67737" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67737"><a href="https://www.state.gov/u-s-department-of-state-archive-websites/">Archives</a></li>
+<li id="menu-item-15998" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15998"><a href="https://register.state.gov/contactus/contactusform">Contact Us</a></li>
+</ul></div>				</div>
+			</div>
+
+			<div class="footer__aux">
+				<div class="menu-footer-auxiliary-navigation-container"><ul id="menu-footer-auxiliary-navigation" class="menu"><li id="menu-item-54473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54473"><a href="https://www.state.gov/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-54474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54474"><a href="https://www.state.gov/section-508-accessibility-statement/">Accessibility Statement</a></li>
+<li id="menu-item-54475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54475"><a href="https://www.state.gov/copyright-information/">Copyright Information</a></li>
+<li id="menu-item-16003" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16003"><a href="https://foia.state.gov/">FOIA</a></li>
+<li id="menu-item-54477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54477"><a href="https://www.state.gov/key-topics-office-of-civil-rights/eeo-no-fear-act-whistleblower-protection-acts/">No FEAR Act</a></li>
+</ul></div>			</div>
+		</div>
+	</footer>
+	<!-- .footer -->
+
+	<div class="nav__overlay" data-component="nav"></div>
+<div class="nav__search" aria-labelledby="Search website" data-component="navsearch">
+	<div class="nav__search-content frame">
+		<form id="nav__search-form" id="search_form" accept-charset="UTF-8" action="//findit.state.gov/search" method="get" class="nav__search-form" name="gs">
+			<div class="nav__search-input-wrapper">
+				<label id="nav__search-query-id" for="nav__search-query">Search:</label>
+				<input autocomplete="on" class="usagov-search-autocomplete nav__search-input" id="nav__search-query" name="query" type="search" placeholder="Enter your search term or phrase" aria-labelledby="nav__search-query-id"/>
+				<input id="affiliate" name="affiliate" type="hidden" value="dos_stategov" />
+			</div>
+			<div class="nav__search-cta-wrapper">
+				<button class="icon-arrow-right link--arrow--right nav__search-cta" type="submit" form="nav__search-form">Search</button>
+			</div>
+		</form>
+	</div>
+</div>
+<div class="nav__subnav-close-wrapper">
+	<div class="nav__subnav-close-content frame">
+		<button class="icon icon-close-thin nav__subnav-close js-subnav-close" tabindex="0">
+			<span class="screen-reader-text">Close</span>
+		</button>
+	</div>
+
+</div>
+
+
+<!-- #navigationfooter -->
+
+</div>
+<!-- #page -->
+
+<style type="text/css">.wmpci-popup-wrp .wmpci-popup-body{background-color: #ffffff;border-width: 0px; border-style: solid;max-width: 50;}.wpmci-popup-cnt-inr-wrp{height:1000;color:#000000;}.wpmci-popup-cnt-inr-wrp h2, .wpmci-popup-cnt-inr-wrp h4{color:#000000;}</style>
+<div class="splash wmpci-popup-wrp design1" id="wmpci-popup-wrp">
+	<div class="wmpci-popup-body">
+		
+				<a href="javascript:void(0);" class="wmpci-popup-close" title="Close"></a>
+				
+		<div class="wpmci-popup-cnt-wrp">
+			<div class="wpmci-popup-cnt-inr-wrp wmpci-clearfix">
+								<h2>U.S. Department <em>of</em> State</h2>
+								
+									<h4>The Lessons of 1989: Freedom and Our Future</h4>
+								<div style="position: relative; display: block; max-width: 800px;">
+<div style="padding-top: 56.25%;"><iframe src="https://players.brightcove.net/1705665025/default_default/index.html?videoId=6101833451001" allowfullscreen="" allow="encrypted-media" style="position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;"></iframe></div>
+</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T9WK49Q"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://www.state.gov/wp-admin/admin-ajax.php";
+</script>
+<script type='text/javascript' src='https://www.state.gov/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='https://www.state.gov/wp-includes/js/backbone.min.js?ver=1.4.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpApiSettings = {"root":"https:\/\/www.state.gov\/wp-json\/","nonce":"af11f291a8","versionString":"wp\/v2\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.state.gov/wp-includes/js/api-request.min.js?ver=5.4'></script>
+<script type='text/javascript' src='https://www.state.gov/wp-includes/js/wp-api.min.js?ver=5.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.state.gov/wp-includes/js/wp-util.min.js?ver=5.4'></script>
+<script type='text/javascript' src='https://www.state.gov/wp-content/themes/state/js/state.js?ver=1585688926'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Wmpci_Popup = {"enable":"0","delay":"0","exp_time":"1","close_on_esc":"1","hide_time":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.state.gov/wp-content/plugins/wp-modal-popup-with-cookie-integration/assets/js/wmpci-popup.js?ver=2.0'></script>
+<script type='text/javascript' src='https://www.state.gov/wp-includes/js/wp-embed.min.js?ver=5.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ctf = {"ajax_url":"https:\/\/www.state.gov\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.state.gov/wp-content/plugins/custom-twitter-feeds/js/ctf-scripts.min.js?ver=1.4.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"font_method":"svg","resized_url":"https:\/\/www.state.gov\/wp-content\/uploads\/sb-instagram-feed-images\/","placeholder":"https:\/\/www.state.gov\/wp-content\/plugins\/instagram-feed\/img\/placeholder.png"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.state.gov/wp-content/plugins/instagram-feed/js/sb-instagram-2-2.min.js?ver=2.3'></script>
+
+</body>
+</html>

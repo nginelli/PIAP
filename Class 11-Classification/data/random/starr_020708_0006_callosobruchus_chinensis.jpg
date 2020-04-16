@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Free Resources - Forest &amp; Kim Starr (Starr Environmental)</title>
+<link rel="shortcut icon" type="image/x-icon" href="../images/graphics/starr_env_icon.jpg" />
+<link rel="stylesheet" type="text/css" href="../css.css">
+<meta charset="UTF-8">
+<meta name="description" content="Free resources provided by Forest &amp; Kim Starr (Starr Environmental)." />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+/* *** CSS - START *** */
+/* *** ENTIRE PAGE - START *** */
+/* *** ENTIRE PAGE - END *** */
+/* *** WIDE PAGES - START *** */
+@media (min-width: 825px) {
+
+.image_and_text_holder {
+  width: 817px;
+}
+
+.desktop_image {
+  float: right;
+  padding-top: 20px;
+  width: 525px;
+}
+
+.detail_holder {
+  color:hsla(0,0%,0%,0.54);
+  padding-left: 25px;
+  padding-top: 15px;
+  width:240px;
+}
+
+.detail_title {
+  padding-bottom: 5px;
+  padding-top: 15px;
+}
+
+.detail_detail {
+  line-height: 200%;
+  padding-bottom: 15px;
+}
+
+}
+/* *** WIDE PAGES - END *** */
+
+/* *** MOBILE PAGES - START *** */
+@media (max-width: 825px) {
+
+.detail_holder {
+  float:left;
+  padding-left:25px;
+  padding-right:25px;
+  padding-top:15px;
+  text-align:left;
+  width:85%;
+}
+
+.detail_title {
+  color:hsla(0,0%,0%,0.54);
+  font-size:16px;
+  padding-top:10px;
+}
+
+.detail_detail {
+  color:hsla(0,0%,0%,0.54);
+  line-height:300%;
+  padding-bottom:0px;
+  word-spacing:5px;
+}
+
+}
+/* *** MOBILE PAGES - END *** */
+/* *** CSS - END *** */
+</style>
+</head>
+<body>
+
+<!-- Header Start -->
+<div class="header_container">
+  <div class="logo">
+    <a href="../"><img class="logo_large_image" src="../images/graphics/starr_environmental_transparent_large.png" alt="Starr Environmental"></a>
+  </div>
+  <div class="logo_small">
+    <a href="../"><img class="logo_small_image" src="../images/graphics/starr_environmental_one_line_transparent.png" alt="Starr Environmental"></a>
+  </div>
+  <form class="form" action="../images/search/" method="get">
+    <input class="search_field" id="q" name="q" value="" /><button class="button" type="submit"><img alt="Search" class="button_image" src="../images/graphics/google_search_white_24dp_1x.png"></button>
+  </form>
+</div>
+<!-- Header End -->
+
+<!-- Title Start -->
+<div class="page_title">Free Resources</div> 
+<div class="page_title_detail"></div> <!-- Keep - Helps with spacing -->
+<!-- Title End -->
+
+<!-- Navigation Desktop Start -->
+<div class="navigation_desktop_holder">
+  <div class="navigation_desktop_detail">FREE RESOURCES</div>
+  <div class="navigation_desktop_detail"><a href="../about/">ABOUT US</a></div>
+  <div class="navigation_desktop_detail"><a href="../contact/">CONTACT US</a></div>
+</div>
+<!-- Navigation Desktop End -->
+
+
+
+<!-- Main Content Start -->
+<div class="image_and_text_holder">
+  <img alt="Forest &amp; Kim" class="desktop_image" src="../images/graphics/main/maui_sunrise_desktop.jpg">
+  <img alt="Forest &amp; Kim" class="mobile_image" src="../images/graphics/main/maui_sunrise_mobile.jpg">
+  <div class="detail_holder">
+    <div class="detail_title">
+      OUR CONTENT
+    </div>
+    <div class="detail_detail">
+      <a href="../images/search/">Our Images</a>
+      <br>
+      <a href="../images/">Plants of Hawaii</a>
+      <br>
+      <a href="../publications/">Publications</a>
+    </div>
+    <div class="detail_title">
+      FREE IDENTIFICATIONS
+    </div>
+    <div class="detail_detail">
+      <a href="https://www.flickr.com/groups/hawaiiplantid/">Hawaii Plant ID</a>
+      <br>
+      <a href="https://www.flickr.com/groups/hawaii-insect-id/">Hawaii Insect ID</a>
+    </div>
+    <div class="detail_title">
+<!--
+      OTHER PEOPLE'S STUFF
+    </div>
+    <div class="detail_detail">
+      <a href="../flickr/plants/all/">Plants</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../flickr/herps/">Herps</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../flickr/slugs/">Slugs</a>
+      <br>
+      <a href="../flickr/insects/">Insects</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="hylaeus/">Hylaeus</a>
+     </div>
+-->
+  </div>
+</div>
+<!-- Main Content End -->
+
+<!-- Footer Start -->
+<br style="clear:both;">
+<br>
+<div class="footer">
+<a href="http://www.starrenvironmental.com/">Starr Environmental</a>
+</div>
+<!-- Footer End -->
+
+</body>
+</html>
