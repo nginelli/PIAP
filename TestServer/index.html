@@ -6,11 +6,13 @@
 
 </head>
 <body>
-    <h3>FM Exhibition Tool Pack</h3>
+    <!-- <h3>FM Exhibition Tool Pack</h3>
     <h2>Streaming Receiver (Demo Client)</h2>
     <p id="StatusText">Status: Not Connected</p>
-    <p id="StatusText2">Status: Not Connected</p>
-    IP Address: <input type="text" id="IpAddress" value="http://localhost:3000">
+    <p id="StatusText2">Status: Not Connected</p> -->
+    <!-- IP Address: <input type="text" id="IpAddress" value="https://a41a133c.ngrok.io">
+
+    <button onclick="ConnectSocketIO()">Connect</button> -->
 
     <button onclick="ConnectSocketIO()">Connect</button>
     <br><br>
@@ -46,9 +48,10 @@
         var ABuffer = new Float32Array(0);
 
         function ConnectSocketIO() {
-            var IP = document.getElementById("IpAddress").value;
-            var socket = io.connect(IP);
-            //var socket = io.connect('http://localhost:3000');
+            // var IP = document.getElementById("IpAddress").value;
+            // var socket = io.connect(IP);
+            // var socket = io.connect('http://localhost:80');
+            var socket = io.connect('https://a41a133c.ngrok.io');
 
             socket.on('OnReceiveData', function (data) {
 
@@ -76,6 +79,8 @@
 
                         if (ReadyToGetFrame_img) {
                             if (receivedLength_img == dataLength_img) ProcessImageData(dataByte_img);
+                        } else {
+                            console.log("frame not ready");
                         }
                     }
                     else if (_dataID == dataID_img) {
@@ -198,7 +203,7 @@
 
                 ReadyToGetFrame_img = true;
 
-                document.getElementById("StatusText").innerHTML = "(label id: " + label_img + ")" + "Status: Received Image(byte) " + _byte.length;
+                // document.getElementById("StatusText").innerHTML = "(label id: " + label_img + ")" + "Status: Received Image(byte) " + _byte.length;
             }
 
             function CombineInt8Array(a, b) {
