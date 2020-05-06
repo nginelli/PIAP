@@ -15,14 +15,20 @@
     <button onclick="ConnectSocketIO()">Connect</button> -->
 
     <button onclick="ConnectSocketIO()" style ="  
-    margin: 0 auto;
+    margin: 20px auto;
     display: block;
     margin-bottom: -20px;"
-    >CONNECT</button>
+    >ENTER</button>
 
     <br><br>
-    <img id="DisplayImg" src="" width=100% />
-
+    <img id="DisplayImg" src="" width=80% style ="margin:0 auto; display:block;""
+    />
+    <img src="https://raw.githubusercontent.com/nginelli/PIAP/master/_files/logo.png" 
+    style ="
+    width: 10%;
+    display: block;
+    margin: 20px auto;"
+    />
     <canvas id="canvas" />
     <script type="text/javascript">
         //var label_img = 1001;
@@ -56,7 +62,7 @@
             // var IP = document.getElementById("IpAddress").value;
             // var socket = io.connect(IP);
             // var socket = io.connect('http://localhost:80');
-            var socket = io.connect('https://a41a133c.ngrok.io');
+            var socket = io.connect('https://a96e22a3.ngrok.io');
 
             socket.on('OnReceiveData', function (data) {
 
