@@ -1,15 +1,14 @@
 ﻿<!doctype html>
 <html>
 <head>
-    <title>Socket.IO Streaming</title>
+    <title>PIAP Streaming</title>
     <script src="/socket.io/socket.io.js"></script>
 
 </head>
 <body style="background: #b7b7b7;">
-    <!-- <h3>FM Exhibition Tool Pack</h3>
-    <h2>Streaming Receiver (Demo Client)</h2>
-    <p id="StatusText">Status: Not Connected</p>
-    <p id="StatusText2">Status: Not Connected</p> -->
+
+    <!-- <p id="StatusText">Status: Not Connected</p>
+    <p id="StatusText2">Status: Not Connected</p>  -->
     <!-- IP Address: <input type="text" id="IpAddress" value="https://a41a133c.ngrok.io">
 
     <button onclick="ConnectSocketIO()">Connect</button> -->
@@ -62,7 +61,7 @@
             // var IP = document.getElementById("IpAddress").value;
             // var socket = io.connect(IP);
             // var socket = io.connect('http://localhost:80');
-            var socket = io.connect('https://a96e22a3.ngrok.io');
+            var socket = io.connect('https://piap-final.ngrok.io');
 
             socket.on('OnReceiveData', function (data) {
 
