@@ -8,3 +8,4 @@ Homework Assignments
 [Class 5 - Group](https://github.com/therealmaxkim/Pi-Temperature)<br />
 [Class 6 / 7 - Midterm: Hardware](https://github.com/chenweibo212/midterm_neopi) | [Blog](https://github.com/nginelli/PIAP/tree/master/Homework/Midterm%20Blog)<br />
 [Class 8](https://github.com/nginelli/PIAP/tree/master/Homework/C8-Visualizer) 
+[Final](https://github.com/nginelli/PIAP-Final) 
